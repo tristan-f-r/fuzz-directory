@@ -1,5 +1,6 @@
 {
-    "tasks": {
-        "run": "deno run -A index.ts"
-    }
+  "tasks": {
+    "run": "deno run -A index.ts",
+    "fmt": "deno fmt --ignore=output"
+  }
 }
