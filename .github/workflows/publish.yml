@@ -23,5 +23,7 @@ jobs:
           deno-version: v1.x
       - name: Run deno run action
         run: deno task run
+      - name: Run deno fmt action
+        run: deno task fmt
       # auto-commit suggestions
       - uses: stefanzweifel/git-auto-commit-action@v4
