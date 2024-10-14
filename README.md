@@ -444,6 +444,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   ([homepage](https://github.com/apache/httpcomponents-client)) made in jvm
 - json-smart-v2: ([homepage](https://github.com/netplex/json-smart-v2)) made in
   jvm
+- tinysparql: ([homepage](http://tinysparql.org)) made in c
 - cmake: ([homepage](https://gitlab.kitware.com/cmake/cmake)) made in c
 - htslib: ([homepage](https://www.htslib.org/)) made in c++
 - tinyusb: Couldn't parse.
