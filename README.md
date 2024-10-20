@@ -221,6 +221,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - sonic: ([homepage](https://github.com/bytedance/sonic)) made in go
 - struts: ([homepage](https://github.com/apache/struts)) made in jvm
 - gdal: ([homepage](https://gdal.org)) made in c++
+- data-encoding: ([homepage](https://github.com/ia0/data-encoding)) made in rust
 - libjpeg-turbo: ([homepage](https://libjpeg-turbo.org)) made in c
 - jimp: ([homepage](https://github.com/jimp-dev/jimp)) made in javascript
 - tensorflow-serving: ([homepage](https://github.com/tensorflow/serving)) made
