@@ -664,6 +664,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - spring-shell: ([homepage](http://projects.spring.io/spring-shell/)) made in
   jvm
 - xnnpack: ([homepage](https://github.com/google/XNNPACK)) made in c++
+- zstd-safe: ([homepage](https://github.com/gyscos/zstd-rs)) made in rust
 - apache-commons-jxpath:
   ([homepage](https://github.com/apache/commons-jxpath.git)) made in jvm
 - libavif: ([homepage](https://github.com/AOMediaCodec/libavif)) made in c++
