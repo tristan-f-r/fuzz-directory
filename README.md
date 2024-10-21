@@ -1354,6 +1354,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - python3-openid: ([homepage](https://github.com/necaris/python3-openid)) made
   in python
 - linkerd2: ([homepage](https://linkerd.io/)) made in go
+- lz4_flex: ([homepage](https://github.com/PSeitz/lz4_flex)) made in rust
 - lodash: ([homepage](https://lodash.com/)) made in javascript
 - validators: ([homepage](https://github.com/python-validators/validators)) made
   in python
