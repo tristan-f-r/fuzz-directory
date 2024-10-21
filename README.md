@@ -170,6 +170,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - sigstore: ([homepage](https://sigstore.dev)) made in go
 - spring-cloud-sleuth-brave:
   ([homepage](https://spring.io/projects/spring-cloud-sleuth)) made in jvm
+- liboqs: ([homepage](https://openquantumsafe.org/)) made in c
 - typst: ([homepage](https://typst.app/)) made in rust
 - librawspeed: ([homepage](https://github.com/darktable-org/rawspeed)) made in
   c++
