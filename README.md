@@ -797,6 +797,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   ([homepage](https://android.googlesource.com/platform/external/cbor-java/+/refs/heads/master))
   made in jvm
 - jmh: ([homepage](https://openjdk.org/projects/code-tools/jmh/)) made in jvm
+- scrypt: ([homepage](https://docs.rs/scrypt)) made in rust
 - libjxl: ([homepage](https://github.com/libjxl/libjxl)) made in c++
 - log4j2: ([homepage](https://logging.apache.org/log4j/2.x)) made in jvm
 - ossf-scorecard: ([homepage](https://openssf.org/)) made in go
