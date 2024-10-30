@@ -156,6 +156,8 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - gluon: ([homepage](https://proton.me)) made in go
 - jsonnet: ([homepage](https://github.com/google/jsonnet)) made in c++
 - xlsxwriter: ([homepage](https://xlsxwriter.readthedocs.io/)) made in python
+- rust-semver-parser:
+  ([homepage](https://github.com/steveklabnik/semver-parser)) made in rust
 - c-blosc2: ([homepage](https://github.com/Blosc/c-blosc2)) made in c++
 - spring-amqp: ([homepage](https://github.com/spring-projects/spring-amqp.git))
   made in jvm
