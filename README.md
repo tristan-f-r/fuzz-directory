@@ -1506,6 +1506,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - go-coap: ([homepage](https://plgd.dev)) made in go
 - dropwizard: ([homepage](https://github.com/dropwizard/dropwizard)) made in jvm
 - unrar: ([homepage](http://www.rarlab.com/)) made in c++
+- tar-rs: ([homepage](https://github.com/alexcrichton/tar-rs)) made in rust
 - python-prompt-toolkit:
   ([homepage](https://github.com/prompt-toolkit/python-prompt-toolkit)) made in
   python
