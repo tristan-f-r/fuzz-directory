@@ -1027,6 +1027,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   ([homepage](https://github.com/bufbuild/protoc-gen-validate)) made in go
 - python-jose: ([homepage](https://github.com/mpdavis/python-jose)) made in
   python
+- rinja: ([homepage](https://rinja.readthedocs.io/)) made in rust
 - go-humanize: ([homepage](https://github.com/dustin/go-humanize)) made in go
 - askama: ([homepage](https://crates.io/crates/askama)) made in rust
 - autoflake: ([homepage](https://www.github.com/PyCQA/autoflake)) made in python
@@ -1218,6 +1219,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   ([homepage](https://naturalintelligence.github.io/fast-xml-parser/)) made in
   javascript
 - ical4j: ([homepage](https://github.com/ical4j/ical4j)) made in jvm
+- kubearmor: ([homepage](https://kubearmor.io/)) made in go
 - pasta: ([homepage](https://github.com/google/pasta)) made in python
 - w3lib: ([homepage](https://github.com/scrapy/w3lib)) made in python
 - groovy: ([homepage](https://groovy-lang.org/)) made in jvm
