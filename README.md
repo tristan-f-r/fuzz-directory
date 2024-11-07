@@ -573,6 +573,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - jansi: ([homepage](https://github.com/fusesource/jansi)) made in jvm
 - sacremoses: ([homepage](https://github.com/alvations/sacremoses)) made in
   python
+- javy: ([homepage](https://github.com/bytecodealliance/javy)) made in rust
 - s2geometry: ([homepage](https://github.com/google/s2geometry)) made in c++
 - ndpi: ([homepage](https://www.ntop.org/products/deep-packet-inspection/ndpi/))
   made in c++
