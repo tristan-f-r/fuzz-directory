@@ -674,6 +674,9 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   ([homepage](https://android.googlesource.com/platform/external/aac/)) made in
   c++
 - libxslt: ([homepage](http://www.xmlsoft.org/libxslt/)) made in c++
+- jupytext:
+  ([homepage](https://jupytext.readthedocs.io/en/latest/developing.html)) made
+  in python
 - janino: ([homepage](http://janino-compiler.github.io/janino/)) made in jvm
 - decorator: ([homepage](https://github.com/micheles/decorator)) made in python
 - jwt-verify-lib: ([homepage](https://github.com/google/jwt_verify_lib)) made in
@@ -955,6 +958,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - jul-to-slf4j: ([homepage](https://www.slf4j.org/)) made in jvm
 - jopt-simple: ([homepage](http://jopt-simple.github.io/jopt-simple/)) made in
   jvm
+- pdfplumber: ([homepage](https://github.com/jsvine/pdfplumber)) made in python
 - openthread: ([homepage](https://github.com/openthread/openthread)) made in c++
 - libtorrent: ([homepage](https://github.com/arvidn/libtorrent.git)) made in c++
 - openjpeg: ([homepage](http://www.openjpeg.org/)) made in c++
