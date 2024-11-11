@@ -200,6 +200,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - lxml: ([homepage](https://lxml.de/)) made in python
 - underscore: ([homepage](https://github.com/doboy/Underscore)) made in python
 - fio: ([homepage](http://git.kernel.dk/fio.git)) made in c++
+- utf8parse: ([homepage](https://docs.rs/vte/)) made in rust
 - ansible: ([homepage](https://github.com/ansible/ansible)) made in python
 - gpac: ([homepage](https://gpac.io)) made in c
 - spring-cloud-netflix:
