@@ -970,6 +970,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   python
 - croniter: ([homepage](https://github.com/kiorky/croniter)) made in python
 - d3: ([homepage](https://d3js.org/)) made in javascript
+- shaderc: ([homepage](https://github.com/google/shaderc)) made in c++
 - aptos-core: ([homepage](https://aptos.dev)) made in rust
 - znc: ([homepage](https://znc.in)) made in c++
 - graphicsfuzz-spirv: ([homepage](https://www.graphicsfuzz.com)) made in c++
