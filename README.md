@@ -1272,6 +1272,8 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - apache-commons-io: ([homepage](https://commons.apache.org/proper/commons-io/))
   made in jvm
 - tslib: ([homepage](https://github.com/microsoft/tslib)) made in javascript
+- cups-filters: ([homepage](https://github.com/OpenPrinting/cups-filters)) made
+  in c++
 - lwan: ([homepage](https://github.com/lpereira/lwan)) made in c++
 - librsvg: ([homepage](https://gitlab.gnome.org/GNOME/librsvg/)) made in rust
 - spdk: ([homepage](https://github.com/spdk/spdk)) made in c
