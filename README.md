@@ -359,7 +359,6 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - kubeedge: ([homepage](https://kubeedge.io/en/)) made in go
 - p11-kit: ([homepage](https://p11-glue.github.io/p11-glue/p11-kit.html)) made
   in c
-- ruby: ([homepage](https://www.ruby-lang.org/)) made in c
 - pygments: ([homepage](https://pygments.org/)) made in python
 - gpsd: ([homepage](https://gpsd.io)) made in c
 - checkstyle: ([homepage](https://github.com/checkstyle/checkstyle)) made in jvm
