@@ -1100,7 +1100,6 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - yamlbeans: ([homepage](https://github.com/EsotericSoftware/yamlbeans/)) made
   in jvm
 - htmlunit: ([homepage](https://htmlunit.sourceforge.io)) made in jvm
-- rustcrypto: ([homepage](https://github.com/RustCrypto)) made in c++
 - go-ethereum: ([homepage](https://github.com/ethereum/go-ethereum)) made in go
 - opendds: ([homepage](https://opendds.org/)) made in c
 - neomutt: ([homepage](https://neomutt.org)) made in c++
