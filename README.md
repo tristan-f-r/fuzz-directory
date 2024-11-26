@@ -887,6 +887,8 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - magic-modules:
   ([homepage](https://github.com/GoogleCloudPlatform/magic-modules)) made in go
 - httpx: ([homepage](https://github.com/encode/httpx)) made in python
+- pulldown-cmark: ([homepage](https://github.com/pulldown-cmark/pulldown-cmark))
+  made in rust
 - jedi: ([homepage](https://github.com/davidhalter/jedi)) made in python
 - go-containerregistry:
   ([homepage](https://github.com/google/go-containerregistry)) made in go
