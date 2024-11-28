@@ -1512,6 +1512,9 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   ([homepage](https://github.com/java-diff-utils/java-diff-utils.git)) made in
   jvm
 - libreoffice: ([homepage](https://www.libreoffice.org/)) made in c++
+- starnix-netlink:
+  ([homepage](https://cs.opensource.google/fuchsia/fuchsia/+/main:src/starnix/lib/third_party/rust_netlink))
+  made in rust
 - opensk: ([homepage](https://github.com/google/OpenSK)) made in rust
 - spdlog: ([homepage](https://github.com/gabime/spdlog)) made in c++
 - go-coap: ([homepage](https://plgd.dev)) made in go
