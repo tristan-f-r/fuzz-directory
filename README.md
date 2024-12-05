@@ -765,6 +765,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - jbig2dec: ([homepage](https://www.jbig2dec.com)) made in c++
 - sqlparse: ([homepage](https://github.com/andialbrecht/sqlparse)) made in
   python
+- kubevirt: ([homepage](https://kubevirt.io)) made in go
 - g-api-pubsub: ([homepage](https://github.com/googleapis/python-pubsub)) made
   in python
 - cri-o: ([homepage](https://cri-o.io/)) made in go
