@@ -607,6 +607,9 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - quic-go: ([homepage](https://github.com/quic-go/quic-go)) made in go
 - irssi: ([homepage](https://github.com/irssi/irssi)) made in c++
 - mp4san: ([homepage](https://github.com/signalapp/mp4san)) made in rust
+- roughtime:
+  ([homepage](https://developers.cloudflare.com/time-services/roughtime)) made
+  in go
 - solidity: ([homepage](https://solidity.readthedocs.io)) made in c++
 - pyjwt: ([homepage](https://github.com/jpadilla/pyjwt)) made in python
 - pycrypto: ([homepage](https://github.com/pycrypto/pycrypto)) made in python
