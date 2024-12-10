@@ -1621,6 +1621,8 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - trafficserver: ([homepage](https://trafficserver.apache.org)) made in c++
 - flac: ([homepage](https://xiph.org/flac/)) made in c++
 - radon: ([homepage](https://github.com/radondb/radon)) made in go
+- spirv-cross: ([homepage](https://github.com/KhronosGroup/SPIRV-Cross)) made in
+  c++
 - hugo: ([homepage](https://github.com/gohugoio/hugo)) made in go
 - libusb: ([homepage](http://libusb.info/)) made in c++
 - rust-brotli: ([homepage](https://github.com/dropbox/rust-brotli)) made in rust
