@@ -1574,7 +1574,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - istio: ([homepage](https://github.com/istio/istio)) made in go
 - jq: ([homepage](https://jqlang.github.io/jq)) made in c
 - arrow: ([homepage](https://arrow.apache.org/)) made in c++
-- micronaut: ([homepage](https://micronaut.io/)) made in java
+- micronaut: ([homepage](https://micronaut.io/)) made in jvm
 - g-oauth-java-client:
   ([homepage](https://github.com/googleapis/google-oauth-java-client)) made in
   jvm
