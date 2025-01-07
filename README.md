@@ -221,6 +221,8 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - json-smart-v2: ([homepage](https://github.com/netplex/json-smart-v2)) made in
   jvm
 - xz-java: ([homepage](https://tukaani.org/xz/java.html)) made in jvm
+- unsafe-libyaml: ([homepage](https://github.com/dtolnay/unsafe-libyaml)) made
+  in rust
 - angular: ([homepage](https://angular.io/)) made in javascript
 - spring-integration:
   ([homepage](https://spring.io/projects/spring-integration)) made in jvm
