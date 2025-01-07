@@ -817,6 +817,8 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - libpng: ([homepage](http://www.libpng.org/pub/png/libpng.html)) made in c++
 - toolz: ([homepage](https://github.com/pytoolz/toolz)) made in python
 - woodstox: ([homepage](https://github.com/FasterXML/woodstox)) made in jvm
+- ttf-parser: ([homepage](https://github.com/RazrFalcon/ttf-parser)) made in
+  rust
 - lz4_flex: ([homepage](https://github.com/PSeitz/lz4_flex)) made in rust
 - kubernetes-cluster-api: ([homepage](https://cluster-api.sigs.k8s.io)) made in
   go
