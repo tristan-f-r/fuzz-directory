@@ -1323,6 +1323,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - html2text: ([homepage](https://github.com/Alir3z4/html2text)) made in python
 - jsmin: ([homepage](https://github.com/tikitu/jsmin)) made in python
 - libcue: ([homepage](https://github.com/lipnitsk/libcue)) made in c
+- wasmi: ([homepage](https://wasmi-labs.github.io/blog/)) made in rust
 - apache-commons-collections:
   ([homepage](https://commons.apache.org/proper/commons-collections/)) made in
   jvm
