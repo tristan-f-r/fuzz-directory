@@ -570,7 +570,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - htslib: ([homepage](https://www.htslib.org/)) made in c++
 - gdbm: ([homepage](https://www.gnu.org.ua/software/gdbm)) made in c
 - selinux: ([homepage](https://github.com/SELinuxProject/selinux)) made in c
-- libsoup: ([homepage](https://libsoup.org)) made in c++
+- libsoup: ([homepage](https://libsoup.gnome.org)) made in c++
 - libvips: ([homepage](https://github.com/libvips/libvips)) made in c++
 - sqlparse: ([homepage](https://github.com/andialbrecht/sqlparse)) made in
   python
