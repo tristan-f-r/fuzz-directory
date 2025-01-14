@@ -1341,7 +1341,6 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - libical: ([homepage](https://github.com/libical/libical)) made in c++
 - freetype2: ([homepage](https://www.freetype.org/)) made in c++
 - gss-ntlmssp: ([homepage](https://github.com/gssapi/gss-ntlmssp)) made in c
-- orbit: ([homepage](https://github.com/google/orbit)) made in c++
 - tinyusb: Couldn't parse.
   [View file](https://github.com/google/oss-fuzz/blob/master/projects/tinyusb/project.yaml).
 - jfreechart: ([homepage](https://www.jfree.org/jfreechart/)) made in jvm
