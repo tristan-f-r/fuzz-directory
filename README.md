@@ -422,6 +422,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   made in python
 - dropwizard: ([homepage](https://github.com/dropwizard/dropwizard)) made in jvm
 - xnnpack: ([homepage](https://github.com/google/XNNPACK)) made in c++
+- jpegoptim: ([homepage](https://www.kokkonen.net/tjko/projects.html)) made in c
 - pako: ([homepage](https://nodeca.github.io/pako/)) made in javascript
 - file: ([homepage](http://www.darwinsys.com/file/)) made in c++
 - apache-commons-validator:
