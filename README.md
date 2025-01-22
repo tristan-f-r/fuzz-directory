@@ -1250,6 +1250,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - typescript: ([homepage](https://www.typescriptlang.org/)) made in javascript
 - simdutf: ([homepage](https://simdutf.github.io/simdutf)) made in c++
 - h2database: ([homepage](https://h2database.com/)) made in jvm
+- apache-doris: ([homepage](https://doris.apache.org)) made in c++
 - libxml2: ([homepage](https://gitlab.gnome.org/GNOME/libxml2)) made in c++
 - fftw3: ([homepage](http://fftw.org/)) made in c++
 - data-encoding: ([homepage](https://github.com/ia0/data-encoding)) made in rust
