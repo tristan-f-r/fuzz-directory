@@ -1213,6 +1213,8 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   ([homepage](https://cloud.spring.io/spring-cloud-netflix/reference/html/))
   made in jvm
 - avro: ([homepage](https://avro.apache.org/)) made in jvm
+- yaml-cpp: ([homepage](https://codedocs.xyz/jbeder/yaml-cpp/index.html)) made
+  in c++
 - muduo: ([homepage](https://github.com/chenshuo/muduo)) made in c++
 - starnix-netlink:
   ([homepage](https://cs.opensource.google/fuchsia/fuchsia/+/main:src/starnix/lib/third_party/rust_netlink))
