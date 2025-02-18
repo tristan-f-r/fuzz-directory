@@ -1315,6 +1315,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - krb5: ([homepage](https://web.mit.edu/kerberos/)) made in c
 - ecdsa-python: ([homepage](https://github.com/starkbank/ecdsa-python)) made in
   python
+- opentelemetry-go-contrib: ([homepage](https://opentelemetry.io/)) made in go
 - example: ([homepage](https://my-api.example.com)) made in c++
 - curl: ([homepage](https://curl.haxx.se/)) made in c++
 - ipfs: ([homepage](https://github.com/ipfs/go-datastore)) made in go
