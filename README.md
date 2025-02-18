@@ -910,6 +910,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   c++
 - glom: ([homepage](https://github.com/mahmoud/glom)) made in python
 - pyjwt: ([homepage](https://github.com/jpadilla/pyjwt)) made in python
+- fips203: ([homepage](https://crates.io/crates/fips203)) made in rust
 - lz4_flex: ([homepage](https://github.com/PSeitz/lz4_flex)) made in rust
 - configparser: ([homepage](https://github.com/jaraco/configparser/)) made in
   python
