@@ -387,6 +387,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   in c++
 - python3-openid: ([homepage](https://github.com/necaris/python3-openid)) made
   in python
+- args: ([homepage](https://taywee.github.io/args/)) made in c++
 - zookeeper: ([homepage](https://github.com/apache/zookeeper)) made in jvm
 - sigstore: ([homepage](https://sigstore.dev)) made in go
 - autopep8: ([homepage](https://github.com/hhatto/autopep8)) made in python
@@ -1137,6 +1138,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   go
 - orjson: ([homepage](https://github.com/ijl/orjson)) made in python
 - flex: ([homepage](https://github.com/westes/flex)) made in c
+- caffeine: ([homepage](https://github.com/ben-manes/caffeine)) made in jvm
 - bluez: ([homepage](https://github.com/bluez/bluez)) made in c
 - cockroachdb: ([homepage](https://www.cockroachlabs.com/)) made in go
 - jetty: ([homepage](www.eclipse.org/jetty)) made in jvm
@@ -1428,6 +1430,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - xmltodict: ([homepage](https://github.com/martinblech/xmltodict)) made in
   python
 - dill: ([homepage](https://github.com/uqfoundation/dill)) made in python
+- mfcmapi: ([homepage](https://github.com/microsoft/mfcmapi)) made in c++
 - nbformat: ([homepage](https://github.com/jupyter/nbformat)) made in python
 - harfbuzz: ([homepage](https://github.com/harfbuzz/harfbuzz)) made in c++
 - openbabel: ([homepage](https://openbabel.org)) made in c++
