@@ -783,6 +783,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - spring-ldap: ([homepage](https://github.com/spring-projects/spring-ldap.git))
   made in jvm
 - uriparser: ([homepage](https://github.com/uriparser/uriparser)) made in c++
+- attrs: ([homepage](https://www.attrs.org)) made in python
 - assimp: ([homepage](https://github.com/assimp/assimp)) made in c++
 - msquic: ([homepage](https://github.com/microsoft/msquic)) made in c
 - packaging: ([homepage](https://github.com/pypa/packaging)) made in python
