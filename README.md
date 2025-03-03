@@ -299,6 +299,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - httplib2: ([homepage](https://github.com/httplib2/httplib2)) made in python
 - simdjson: ([homepage](https://simdjson.org/)) made in c++
 - rdf4j: ([homepage](https://github.com/eclipse/rdf4j)) made in jvm
+- behaviortreecpp: ([homepage](https://www.behaviortree.dev/)) made in c++
 - pyrsistent: ([homepage](https://github.com/tobgu/pyrsistent)) made in python
 - pulldown-cmark: ([homepage](https://github.com/pulldown-cmark/pulldown-cmark))
   made in rust
