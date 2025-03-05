@@ -1387,6 +1387,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   made in c++
 - json-patch: ([homepage](https://github.com/evanphx/json-patch)) made in go
 - jersey: ([homepage](https://github.com/eclipse-ee4j/jersey)) made in jvm
+- neqo: ([homepage](https://github.com/mozilla/neqo)) made in rust
 - pugixml: ([homepage](https://github.com/zeux/pugixml)) made in c++
 - requests: ([homepage](https://requests.readthedocs.io/en/master/)) made in
   python
