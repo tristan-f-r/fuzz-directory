@@ -401,6 +401,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - spatial4j: ([homepage](https://github.com/locationtech/spatial4j)) made in jvm
 - upx: ([homepage](https://upx.github.io/)) made in c++
 - openweave: ([homepage](https://openweave.io)) made in c++
+- powsybl-java: ([homepage](https://www.powsybl.org/)) made in jvm
 - go-redis: ([homepage](https://github.com/redis/go-redis)) made in go
 - libyang: ([homepage](https://github.com/CESNET/libyang)) made in c
 - liboqs: ([homepage](https://openquantumsafe.org/)) made in c
@@ -433,7 +434,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - jsonparser: ([homepage](https://github.com/buger/jsonparser)) made in go
 - chrono: ([homepage](https://github.com/chronotope/chrono)) made in rust
 - pacemaker: ([homepage](https://www.clusterlabs.org/pacemaker/)) made in c
-- askama: ([homepage](https://crates.io/crates/askama)) made in rust
+- askama: ([homepage](https://askama.readthedocs.io/)) made in rust
 - packaging: ([homepage](https://github.com/pypa/packaging)) made in python
 - civetweb: ([homepage](https://github.com/civetweb/civetweb)) made in c
 - keystone: ([homepage](https://www.keystone-engine.org)) made in c++
@@ -1685,7 +1686,6 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   ([homepage](https://github.com/daviddrysdale/python-phonenumbers)) made in
   python
 - pyodbc: ([homepage](https://github.com/mkleehammer/pyodbc)) made in python
-- rinja: ([homepage](https://rinja.readthedocs.io/)) made in rust
 - libidn2: ([homepage](https://gitlab.com/libidn/libidn2)) made in c++
 - jackson-databind: ([homepage](https://github.com/FasterXML/jackson-databind))
   made in jvm
