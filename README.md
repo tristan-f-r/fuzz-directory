@@ -1322,7 +1322,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - http-parser: ([homepage](https://github.com/nodejs/http-parser)) made in c++
 - tinyusb: Couldn't parse.
   [View file](https://github.com/google/oss-fuzz/blob/master/projects/tinyusb/project.yaml).
-- onednn: ([homepage](https://github.com/oneapi-src/oneDNN)) made in c++
+- onednn: ([homepage](https://github.com/uxlfoundation/oneDNN)) made in c++
 - libjxl: ([homepage](https://github.com/libjxl/libjxl)) made in c++
 - javacpp: ([homepage](https://github.com/bytedeco/javacpp)) made in jvm
 - frr: ([homepage](https://frrouting.org)) made in c++
