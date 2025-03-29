@@ -85,7 +85,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - html2text: ([homepage](https://github.com/Alir3z4/html2text)) made in python
 - kryo: ([homepage](http://esotericsoftware.com/)) made in jvm
 - librdkafka: ([homepage](https://github.com/edenhill/librdkafka)) made in c++
-- ogre: ([homepage](https://github.com/OGRECave/ogre)) made in c++
+- ogre: ([homepage](https://www.ogre3d.org/)) made in c++
 - sqlite3: ([homepage](https://sqlite.org/)) made in c++
 - libcbor: ([homepage](https://github.com/PJK/libcbor)) made in c++
 - dateparser: ([homepage](https://dateparser.readthedocs.io/en/latest/)) made in
