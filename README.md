@@ -1595,6 +1595,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   rust
 - systemd: ([homepage](https://freedesktop.org/wiki/Software/systemd/)) made in
   c++
+- gateway: ([homepage](https://gateway.envoyproxy.io/)) made in go
 - rekor: ([homepage](https://sigstore.dev)) made in go
 - qpid-proton: ([homepage](https://qpid.apache.org/proton/)) made in c++
 - turf: ([homepage](https://turfjs.org/)) made in javascript
