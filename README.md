@@ -97,6 +97,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - meshoptimizer: ([homepage](https://github.com/zeux/meshoptimizer)) made in c++
 - tablesaw: ([homepage](https://jtablesaw.github.io/tablesaw/)) made in jvm
 - nccl: ([homepage](https://github.com/NVIDIA/nccl)) made in c++
+- opentelemetry-go: ([homepage](https://opentelemetry.io/)) made in go
 - cffi: ([homepage](https://foss.heptapod.net/pypy/cffi)) made in python
 - apache-poi: ([homepage](https://poi.apache.org/)) made in jvm
 - mosh: ([homepage](https://mosh.org)) made in c++
