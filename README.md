@@ -1240,6 +1240,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - utf8proc: ([homepage](http://juliastrings.github.io/utf8proc/)) made in c
 - scikit-learn: ([homepage](https://github.com/scikit-learn/scikit-learn)) made
   in python
+- globaleaks: ([homepage](https://www.globaleaks.org/)) made in python
 - jc: ([homepage](https://kellyjonbrazil.github.io/jc/docs/)) made in python
 - libmodbus: ([homepage](https://libmodbus.org)) made in c
 - varnish: ([homepage](https://varnish-cache.org/)) made in c
