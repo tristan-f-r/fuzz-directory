@@ -454,6 +454,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - espeak-ng: ([homepage](https://github.com/espeak-ng/espeak-ng)) made in c++
 - resiprocate: ([homepage](https://www.resiprocate.org/)) made in c++
 - libtheora: ([homepage](https://www.theora.org/)) made in c++
+- openkruise: ([homepage](https://github.com/openkruise/kruise)) made in go
 - jdom: ([homepage](http://jdom.org/)) made in jvm
 - kimageformats: ([homepage](https://cgit.kde.org/kimageformats.git/)) made in
   c++
