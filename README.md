@@ -1336,6 +1336,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   python
 - wolfmqtt: ([homepage](https://www.wolfssl.com/products/wolfmqtt/)) made in c
 - ntopng: ([homepage](https://github.com/ntop/ntopng/)) made in c++
+- jerryscript: ([homepage](https://jerryscript.net)) made in c
 - libbpf: ([homepage](https://github.com/libbpf/libbpf)) made in c
 - dulwich: ([homepage](https://github.com/jelmer/dulwich)) made in python
 - sigstore: ([homepage](https://sigstore.dev)) made in go
