@@ -528,6 +528,8 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - chardet: ([homepage](https://github.com/erikrose/chardet)) made in python
 - junrar: ([homepage](https://github.com/junrar/junrar)) made in jvm
 - cri-o: ([homepage](https://cri-o.io/)) made in go
+- globaleaks-whistleblowing-software: ([homepage](https://www.globaleaks.org/))
+  made in python
 - tcmalloc: ([homepage](tcmalloc)) made in c++
 - numpy: ([homepage](numpy.org)) made in python
 - bc-java-wycheproof: ([homepage](https://www.bouncycastle.org/)) made in jvm
@@ -1242,7 +1244,6 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - utf8proc: ([homepage](http://juliastrings.github.io/utf8proc/)) made in c
 - scikit-learn: ([homepage](https://github.com/scikit-learn/scikit-learn)) made
   in python
-- globaleaks: ([homepage](https://www.globaleaks.org/)) made in python
 - jc: ([homepage](https://kellyjonbrazil.github.io/jc/docs/)) made in python
 - libmodbus: ([homepage](https://libmodbus.org)) made in c
 - varnish: ([homepage](https://varnish-cache.org/)) made in c
