@@ -1245,6 +1245,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - pyasn1-modules: ([homepage](https://github.com/pyasn1/pyasn1-modules)) made in
   python
 - tendermint: ([homepage](https://github.com/cometbft/cometbft)) made in go
+- volcano: ([homepage](https://volcano.sh/)) made in go
 - zip: ([homepage](https://github.com/kuba--/zip)) made in c
 - curvesapi: ([homepage](https://github.com/virtuald/curvesapi)) made in jvm
 - u-root: ([homepage](https://u-root.org/)) made in go
