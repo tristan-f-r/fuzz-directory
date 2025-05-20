@@ -318,7 +318,8 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - zip-rs: ([homepage](https://github.com/zip-rs/zip)) made in rust
 - tensorflow-addons: ([homepage](https://github.com/tensorflow/addons)) made in
   python
-- kcodecs: ([homepage](https://cgit.kde.org/kcodecs.git/)) made in c++
+- kcodecs: ([homepage](https://invent.kde.org/frameworks/kcodecs.git/)) made in
+  c++
 - pako: ([homepage](https://nodeca.github.io/pako/)) made in javascript
 - flac: ([homepage](https://xiph.org/flac/)) made in c++
 - zip4j: ([homepage](http://www.lingala.net/zip4j.html)) made in jvm
@@ -512,7 +513,8 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - flyway: ([homepage](https://github.com/flyway/flyway)) made in jvm
 - gateway: ([homepage](https://gateway.envoyproxy.io/)) made in go
 - suricata: ([homepage](https://suricata.io)) made in rust
-- karchive: ([homepage](https://cgit.kde.org/karchive.git/)) made in c++
+- karchive: ([homepage](https://invent.kde.org/frameworks/karchive.git/)) made
+  in c++
 - pem: ([homepage](https://github.com/hynek/pem)) made in python
 - iverilog: ([homepage](https://steveicarus.github.io/iverilog)) made in c++
 - servo-core: ([homepage](https://github.com/Netflix/servo)) made in jvm
@@ -806,8 +808,8 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - gpac: ([homepage](https://gpac.io)) made in c
 - containerd: ([homepage](https://github.com/containerd/containerd)) made in go
 - pyjwt: ([homepage](https://github.com/jpadilla/pyjwt)) made in python
-- kimageformats: ([homepage](https://cgit.kde.org/kimageformats.git/)) made in
-  c++
+- kimageformats:
+  ([homepage](https://invent.kde.org/frameworks/kimageformats.git/)) made in c++
 - mvel: ([homepage](https://github.com/mvel/mvel/)) made in jvm
 - lighttpd: ([homepage](https://www.lighttpd.net/)) made in c
 - kyverno: ([homepage](https://www.kyverno.io)) made in go
