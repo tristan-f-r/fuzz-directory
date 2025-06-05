@@ -1700,7 +1700,8 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - libmpeg2: ([homepage](https://github.com/ittiam-systems/libmpeg2)) made in c++
 - sqlite3: ([homepage](https://sqlite.org/)) made in c++
 - dart: ([homepage](https://dart.dev)) made in c++
-- rust-coreutils: ([homepage](https://crates.io/crates/coreutils)) made in rust
+- rust-coreutils: Couldn't parse.
+  [View file](https://github.com/google/oss-fuzz/blob/master/projects/rust-coreutils/project.yaml).
 - expat: ([homepage](https://github.com/libexpat/libexpat)) made in c++
 - angus-mail: ([homepage](https://eclipse-ee4j.github.io/mail)) made in jvm
 - kubernetes: ([homepage](https://kubernetes.io)) made in go
