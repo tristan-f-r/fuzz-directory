@@ -1045,7 +1045,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - black: ([homepage](https://github.com/psf/black)) made in python
 - turf: ([homepage](https://turfjs.org/)) made in javascript
 - hsqldb: ([homepage](www.hsqldb.org)) made in jvm
-- libhtp: ([homepage](https://github.com/OISF/libhtp)) made in rust
+- libhtp: ([homepage](https://github.com/OISF/libhtp)) made in c
 - spring-amqp: ([homepage](https://github.com/spring-projects/spring-amqp.git))
   made in jvm
 - go-shlex: ([homepage](https://github.com/google/shlex)) made in go
