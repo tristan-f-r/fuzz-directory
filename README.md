@@ -419,6 +419,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - gonids: ([homepage](https://github.com/google/gonids)) made in go
 - dnsmasq: ([homepage](https://thekelleys.org.uk/dnsmasq/doc.html)) made in c
 - pest: ([homepage](https://github.com/pest-parser/pest)) made in rust
+- goipp: ([homepage](https://github.com/OpenPrinting/goipp)) made in go
 - influxdb: ([homepage](https://github.com/influxdata/influxdb)) made in go
 - libssh2: ([homepage](https://github.com/libssh2/libssh2)) made in c++
 - cbor-java:
