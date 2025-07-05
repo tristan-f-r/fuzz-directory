@@ -635,6 +635,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - clock: ([homepage](https://github.com/benbjohnson/clock)) made in go
 - openthread: ([homepage](https://github.com/openthread/openthread)) made in c++
 - wazuh: ([homepage](https://wazuh.com/)) made in c
+- tink-cc: ([homepage](https://developers.google.com/tink)) made in c++
 - msgpack-python: ([homepage](https://github.com/msgpack/msgpack-python)) made
   in python
 - fasthttp: ([homepage](https://github.com/valyala/fasthttp)) made in go
@@ -726,7 +727,6 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   ([homepage](https://developers.google.com/closure/compiler/)) made in jvm
 - genshi: ([homepage](https://github.com/edgewall/genshi)) made in python
 - pasta: ([homepage](https://github.com/google/pasta)) made in python
-- tink: ([homepage](https://developers.google.com/tink)) made in c++
 - fmt: ([homepage](https://github.com/fmtlib/fmt)) made in c++
 - starlark-rust:
   ([homepage](https://github.com/facebookexperimental/starlark-rust/)) made in
