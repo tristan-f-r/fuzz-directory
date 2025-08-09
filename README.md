@@ -1124,7 +1124,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - gcloud-go: ([homepage](https://github.com/googleapis/google-cloud-go)) made in
   go
 - bad_example: ([homepage](http://www.zlib.net/)) made in c++
-- charset_normalizer: ([homepage](https://github.com/Ousret/charset_normalizer))
+- charset_normalizer: ([homepage](https://github.com/jawah/charset_normalizer))
   made in python
 - dill: ([homepage](https://github.com/uqfoundation/dill)) made in python
 - toml_edit: ([homepage](https://github.com/ordian/toml_edit)) made in rust
