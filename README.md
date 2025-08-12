@@ -295,6 +295,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   ([homepage](https://spring.io/projects/spring-cloud-sleuth)) made in jvm
 - mp4san: ([homepage](https://github.com/signalapp/mp4san)) made in rust
 - pathlib2: ([homepage](https://github.com/jazzband/pathlib2)) made in python
+- angle: ([homepage](https://chromium.googlesource.com/angle/angle)) made in c++
 - sqlalchemy-utils: ([homepage](https://github.com/kvesteri/sqlalchemy-utils))
   made in python
 - flask-jwt-extended:
