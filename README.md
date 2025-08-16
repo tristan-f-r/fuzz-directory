@@ -198,6 +198,8 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - dpp: ([homepage](https://github.com/brainboxdotcc/DPP)) made in c++
 - postgresql: ([homepage](https://postgresql.org)) made in c
 - nghttp2: ([homepage](https://nghttp2.org/)) made in c++
+- libmicrohttpd2: ([homepage](https://git.gnunet.org/libmicrohttpd2.git)) made
+  in c++
 - hiredis: ([homepage](https://github.com/redis/hiredis)) made in c
 - go-shlex: ([homepage](https://github.com/google/shlex)) made in go
 - libmodbus: ([homepage](https://libmodbus.org)) made in c
