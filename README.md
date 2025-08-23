@@ -529,6 +529,8 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - rauc: ([homepage](https://rauc.io/)) made in c
 - rich: ([homepage](https://github.com/Textualize/rich)) made in python
 - oscrypto: ([homepage](https://github.com/wbond/oscrypto)) made in python
+- model-transparency:
+  ([homepage](https://github.com/sigstore/model-transparency)) made in python
 - libtsm: ([homepage](https://www.freedesktop.org/wiki/Software/kmscon/libtsm/))
   made in c++
 - protoc-gen-validate:
