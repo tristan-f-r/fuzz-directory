@@ -1022,6 +1022,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   made in jvm
 - openslide: ([homepage](https://openslide.org/)) made in c
 - ots: ([homepage](https://github.com/khaledhosny/ots)) made in c++
+- kmime: ([homepage](https://invent.kde.org/pim/kmime.git/)) made in c++
 - mysql-server: ([homepage](https://www.mysql.com)) made in c++
 - libgit2: ([homepage](https://libgit2.github.com/)) made in c++
 - naga: ([homepage](https://github.com/gfx-rs/naga)) made in rust
