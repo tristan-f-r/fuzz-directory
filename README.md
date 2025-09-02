@@ -267,6 +267,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - apache-doris: ([homepage](https://doris.apache.org)) made in c++
 - coreutils: ([homepage](http://www.gnu.org/software/coreutils/)) made in
   undefined
+- v8: ([homepage](https://chromium.googlesource.com/v8/v8)) made in c++
 - jflex: ([homepage](https://github.com/jflex-de/jflex)) made in jvm
 - ja3:
   ([homepage](https://engineering.salesforce.com/tls-fingerprinting-with-ja3-and-ja3s-247362855967/))
