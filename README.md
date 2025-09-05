@@ -1658,6 +1658,8 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - behaviortreecpp: ([homepage](https://www.behaviortree.dev/)) made in c++
 - mupdf: ([homepage](https://www.mupdf.com)) made in c++
 - babel: ([homepage](https://github.com/python-babel/babel)) made in python
+- kde-thumbnailers: ([homepage](https://invent.kde.org/network/kio-extras.git))
+  made in c++
 - opentelemetry-go: ([homepage](https://opentelemetry.io/)) made in go
 - fsnotify: ([homepage](https://github.com/fsnotify/fsnotify)) made in go
 - llamacpp: ([homepage](https://github.com/ggerganov/llama.cpp)) made in c++
