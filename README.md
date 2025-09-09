@@ -219,6 +219,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - mvel: ([homepage](https://github.com/mvel/mvel/)) made in jvm
 - wasmedge: ([homepage](https://github.com/WasmEdge/WasmEdge)) made in c++
 - nbclassic: ([homepage](https://github.com/jupyter/nbclassic)) made in python
+- kubeflow-katib: ([homepage](https://github.com/kubeflow/katib)) made in go
 - fastjson2: ([homepage](https://github.com/alibaba/fastjson2)) made in jvm
 - nfstream: ([homepage](https://www.nfstream.org/)) made in python
 - dovecot: ([homepage](https://www.dovecot.org/)) made in c
@@ -460,6 +461,8 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   jvm
 - opensk: ([homepage](https://github.com/google/OpenSK)) made in rust
 - dulwich: ([homepage](https://github.com/jelmer/dulwich)) made in python
+- kubeflow-model-registry:
+  ([homepage](https://github.com/kubeflow/model-registry)) made in go
 - netcdf:
   ([homepage](https://www.unidata.ucar.edu/software/netcdf/docs/index.html))
   made in c++
@@ -653,6 +656,8 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - istio: ([homepage](https://github.com/istio/istio)) made in go
 - spring-cloud-commons:
   ([homepage](https://github.com/spring-cloud/spring-cloud-commons)) made in jvm
+- kubeflow-spark-operator:
+  ([homepage](https://github.com/kubeflow/spark-operator)) made in go
 - python3-openid: ([homepage](https://github.com/necaris/python3-openid)) made
   in python
 - jsonpath: ([homepage](https://goessner.net/articles/JsonPath/)) made in jvm
@@ -983,6 +988,8 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - litmuschaos: ([homepage](https://litmuschaos.io/)) made in go
 - clib: ([homepage](https://github.com/clibs/clib)) made in c
 - libzmq: ([homepage](https://github.com/zeromq/libzmq)) made in c++
+- kubeflow-pipelines: ([homepage](https://github.com/kubeflow/pipelines)) made
+  in go
 - gitoxide: ([homepage](https://crates.io/crates/gitoxide)) made in rust
 - ijson: ([homepage](https://github.com/ICRAR/ijson)) made in python
 - guetzli: ([homepage](https://github.com/google/guetzli)) made in c++
