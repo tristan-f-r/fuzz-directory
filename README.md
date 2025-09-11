@@ -358,7 +358,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - six: ([homepage](https://github.com/benjaminp/six)) made in python
 - trust-dns: ([homepage](https://github.com/hickory-dns/hickory-dns)) made in
   rust
-- bincode: ([homepage](https://github.com/bincode-org/bincode)) made in rust
+- bincode: ([homepage](https://git.sr.ht/~stygianentity/bincode)) made in rust
 - libconfig: ([homepage](https://hyperrealm.github.io/libconfig/)) made in c
 - valijson: ([homepage](https://github.com/tristanpenman/valijson)) made in c++
 - num-bigint: ([homepage](https://crates.io/crates/num-bigint)) made in c++
