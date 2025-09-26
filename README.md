@@ -1106,7 +1106,6 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - connectedhomeip: ([homepage](https://buildwithmatter.com/)) made in c++
 - ffmpeg: ([homepage](https://www.ffmpeg.org)) made in c++
 - msgpack-c: ([homepage](https://msgpack.org/)) made in c++
-- oniguruma: ([homepage](https://github.com/kkos/oniguruma)) made in c
 - json: ([homepage](https://github.com/nlohmann/json)) made in c++
 - go-git: ([homepage](https://github.com/go-git/go-git)) made in go
 - pycrypto: ([homepage](https://github.com/pycrypto/pycrypto)) made in python
