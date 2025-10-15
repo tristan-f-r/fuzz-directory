@@ -752,6 +752,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - fastjson2: ([homepage](https://github.com/alibaba/fastjson2)) made in jvm
 - utf8proc: ([homepage](http://juliastrings.github.io/utf8proc/)) made in c
 - mariadb: ([homepage](https://mariadb.org/)) made in c++
+- kea: ([homepage](https://gitlab.isc.org/isc-projects/kea)) made in c++
 - firefox: ([homepage](https://www.mozilla.org/firefox/)) made in c++
 - p9: ([homepage](https://github.com/hugelgupf/p9)) made in go
 - jsoncons: ([homepage](https://github.com/danielaparker/jsoncons)) made in c++
