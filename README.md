@@ -147,6 +147,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - mdurl: ([homepage](https://github.com/executablebooks/mdurl)) made in python
 - chardet: ([homepage](https://github.com/erikrose/chardet)) made in python
 - xnu: ([homepage](https://opensource.apple.com/)) made in c
+- quiche-cloudflare: ([homepage](https://docs.quic.tech/quiche/)) made in rust
 - freeimage: ([homepage](http://freeimage.sourceforge.net/)) made in c++
 - jsonpickle: ([homepage](https://github.com/jsonpickle/jsonpickle)) made in
   python
