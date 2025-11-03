@@ -1090,6 +1090,9 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - haproxy: ([homepage](https://github.com/haproxy/haproxy)) made in c++
 - linkerd2: ([homepage](https://linkerd.io/)) made in go
 - nccl: ([homepage](https://github.com/NVIDIA/nccl)) made in c++
+- bios-bmc-smm-error-logger:
+  ([homepage](https://github.com/openbmc/docs/blob/master/designs/bios-bmc-smm-error-logging.md))
+  made in c++
 - libzip: ([homepage](https://libzip.org/)) made in c++
 - pandas: ([homepage](https://github.com/pandas-dev/pandas)) made in python
 - msal:
