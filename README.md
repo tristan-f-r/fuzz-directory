@@ -1242,6 +1242,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   made in c++
 - flex: ([homepage](https://github.com/westes/flex)) made in c
 - netdata: ([homepage](https://my-netdata.io)) made in undefined
+- openfga: ([homepage](https://openfga.dev)) made in go
 - c-blosc: ([homepage](https://github.com/Blosc/c-blosc)) made in c++
 - apache-felix-dev: ([homepage](https://felix.apache.org/)) made in jvm
 - hugo: ([homepage](https://github.com/gohugoio/hugo)) made in go
