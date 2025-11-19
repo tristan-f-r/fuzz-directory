@@ -896,6 +896,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - spring-retry:
   ([homepage](https://ci.spring.io/teams/spring-retry/pipelines/spring-retry-2.0.x))
   made in jvm
+- ruby: ([homepage](https://www.ruby-lang.org/en/)) made in c++
 - jerryscript: ([homepage](https://jerryscript.net)) made in c
 - django: ([homepage](https://www.djangoproject.com/)) made in python
 - flask: ([homepage](https://github.com/pallets/flask)) made in python
