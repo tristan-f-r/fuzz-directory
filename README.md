@@ -328,7 +328,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   javascript
 - ua-parser-js: ([homepage](https://github.com/faisalman/ua-parser-js)) made in
   javascript
-- cel-cpp: ([homepage](https://opensource.google/projects/cel)) made in c++
+- cel-cpp: ([homepage](https://cel.dev)) made in c++
 - igraph: ([homepage](https://github.com/igraph/igraph)) made in c
 - smt: ([homepage](https://github.com/celestiaorg/smt)) made in go
 - wheel: ([homepage](https://github.com/pypa/wheel)) made in python
