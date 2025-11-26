@@ -370,6 +370,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - serde_urlencoded: ([homepage](https://github.com/nox/serde_urlencoded)) made
   in rust
 - gosnmp: ([homepage](https://github.com/gosnmp/gosnmp)) made in go
+- oxia: ([homepage](https://oxia-db.github.io)) made in go
 - goipp: ([homepage](https://github.com/OpenPrinting/goipp)) made in go
 - kubeflow-katib: ([homepage](https://github.com/kubeflow/katib)) made in go
 - lame: ([homepage](https://sourceforge.net/projects/lame/)) made in c++
