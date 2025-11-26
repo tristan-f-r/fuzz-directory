@@ -1349,7 +1349,6 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - click: ([homepage](https://github.com/pallets/click)) made in python
 - arduinojson: ([homepage](https://github.com/bblanchon/ArduinoJson)) made in
   c++
-- bc-java-wycheproof: ([homepage](https://www.bouncycastle.org/)) made in jvm
 - yarl: ([homepage](https://github.com/aio-libs/yarl)) made in python
 - avro: ([homepage](https://avro.apache.org/)) made in jvm
 - spring-boot: ([homepage](https://github.com/spring-projects/spring-boot)) made
