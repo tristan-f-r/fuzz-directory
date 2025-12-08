@@ -376,7 +376,6 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - lame: ([homepage](https://sourceforge.net/projects/lame/)) made in c++
 - librsvg: ([homepage](https://gitlab.gnome.org/GNOME/librsvg/)) made in rust
 - gitoxide: ([homepage](https://crates.io/crates/gitoxide)) made in rust
-- graphicsfuzz-spirv: ([homepage](https://www.graphicsfuzz.com)) made in c++
 - cbor-java:
   ([homepage](https://android.googlesource.com/platform/external/cbor-java/+/refs/heads/master))
   made in jvm
