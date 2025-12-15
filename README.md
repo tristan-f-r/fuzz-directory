@@ -954,6 +954,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - spicy: ([homepage](https://docs.zeek.org/projects/spicy/en/latest/)) made in
   c++
 - pdfbox: ([homepage](https://pdfbox.apache.org/)) made in jvm
+- apache-tika: ([homepage](https://tika.apache.org/)) made in jvm
 - tomlplusplus: ([homepage](https://marzer.github.io/tomlplusplus/)) made in c++
 - bloaty: ([homepage](https://github.com/google/bloaty)) made in c++
 - libvips: ([homepage](https://github.com/libvips/libvips)) made in c++
@@ -1005,7 +1006,6 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - opensc: ([homepage](https://github.com/OpenSC/OpenSC/)) made in c++
 - unirest-java: ([homepage](https://github.com/Mashape/unirest-java)) made in
   jvm
-- unrar: ([homepage](http://www.rarlab.com/)) made in c++
 - open62541: ([homepage](https://open62541.org/)) made in c++
 - g-api-auth-httplib2:
   ([homepage](https://github.com/googleapis/google-auth-library-python-httplib2))
