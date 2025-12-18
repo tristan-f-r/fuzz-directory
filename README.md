@@ -629,6 +629,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - typst: ([homepage](https://typst.app/)) made in rust
 - requests: ([homepage](https://requests.readthedocs.io/en/master/)) made in
   python
+- radvd: ([homepage](http://www.litech.org/radvd)) made in c
 - qt: ([homepage](http://qt-project.org)) made in c++
 - gdk-pixbuf: ([homepage](https://gitlab.gnome.org/GNOME/gdk-pixbuf/)) made in c
 - hiredis: ([homepage](https://github.com/redis/hiredis)) made in c
@@ -826,6 +827,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - libproxy: ([homepage](https://libproxy.github.io/libproxy/)) made in c
 - libpsl: ([homepage](https://github.com/rockdaboot/libpsl)) made in c++
 - pborman-uuid: ([homepage](https://github.com/pborman/uuid)) made in go
+- iperf: ([homepage](https://github.com/esnet/iperf)) made in c++
 - gc-iam:
   ([homepage](https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-iam))
   made in python
@@ -1231,6 +1233,8 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - lz4: ([homepage](https://github.com/lz4/lz4)) made in c++
 - e2fsprogs: ([homepage](https://github.com/tytso/e2fsprogs)) made in c
 - gopsutil: ([homepage](https://github.com/shirou/gopsutil)) made in go
+- anise: ([homepage](https://docs.rs/anise/latest/anise/index.html)) made in
+  rust
 - istio: ([homepage](https://github.com/istio/istio)) made in go
 - cppcheck: ([homepage](https://cppcheck.sourceforge.net)) made in c++
 - jaxb: ([homepage](https://eclipse-ee4j.github.io/jaxb-ri/)) made in jvm
