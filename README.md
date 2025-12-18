@@ -1590,6 +1590,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - dav1d: ([homepage](https://code.videolan.org/videolan/dav1d)) made in c++
 - botocore: ([homepage](https://github.com/boto/botocore)) made in python
 - alembic: ([homepage](https://github.com/alembic/alembic)) made in c++
+- cirq: ([homepage](https://github.com/quantumlib/Cirq)) made in python
 - g-auth-library-java: ([homepage](developers.google.com/identity)) made in jvm
 - imagemagick: ([homepage](https://www.imagemagick.org)) made in c++
 - libpg_query: ([homepage](https://pganalyze.com/)) made in c
