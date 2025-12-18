@@ -1217,6 +1217,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   made in javascript
 - c-ares: ([homepage](https://c-ares.haxx.se/)) made in c++
 - nghttp2: ([homepage](https://nghttp2.org/)) made in c++
+- ipp-usb: ([homepage](https://github.com/OpenPrinting/ipp-usb)) made in go
 - llamacpp: ([homepage](https://github.com/ggerganov/llama.cpp)) made in c++
 - jsch: ([homepage](https://github.com/mwiede/jsch)) made in jvm
 - numactl: ([homepage](https://github.com/numactl/numactl)) made in c
