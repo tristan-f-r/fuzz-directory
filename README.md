@@ -592,6 +592,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   in c++
 - pyparsing: ([homepage](https://github.com/pyparsing/pyparsing)) made in python
 - javy: ([homepage](https://github.com/bytecodealliance/javy)) made in rust
+- pycups: ([homepage](https://github.com/OpenPrinting/pycups)) made in python
 - tyrus: ([homepage](https://github.com/eclipse-ee4j/tyrus)) made in jvm
 - unicode-rs: ([homepage](http://unicode-rs.github.io/)) made in rust
 - smart_open: ([homepage](https://github.com/RaRe-Technologies/smart_open)) made
