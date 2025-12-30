@@ -1403,8 +1403,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - ms-tpm-20-ref: ([homepage](https://github.com/microsoft/ms-tpm-20-ref)) made
   in c
 - ada-url: ([homepage](https://ada-url.github.io/ada)) made in c++
-- libmicrohttpd2: ([homepage](https://git.gnunet.org/libmicrohttpd2.git)) made
-  in c++
+- libmicrohttpd2: ([homepage](https://www.gnu.org/s/libmicrohttpd/)) made in c
 - flatbuffers: ([homepage](https://github.com/google/flatbuffers)) made in c++
 - bs4: ([homepage](https://www.crummy.com/software/BeautifulSoup/)) made in
   python
