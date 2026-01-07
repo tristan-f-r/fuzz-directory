@@ -592,7 +592,6 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   in c++
 - pyparsing: ([homepage](https://github.com/pyparsing/pyparsing)) made in python
 - javy: ([homepage](https://github.com/bytecodealliance/javy)) made in rust
-- pycups: ([homepage](https://github.com/OpenPrinting/pycups)) made in python
 - tyrus: ([homepage](https://github.com/eclipse-ee4j/tyrus)) made in jvm
 - unicode-rs: ([homepage](http://unicode-rs.github.io/)) made in rust
 - smart_open: ([homepage](https://github.com/RaRe-Technologies/smart_open)) made
@@ -630,7 +629,6 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - typst: ([homepage](https://typst.app/)) made in rust
 - requests: ([homepage](https://requests.readthedocs.io/en/master/)) made in
   python
-- radvd: ([homepage](http://www.litech.org/radvd)) made in c
 - qt: ([homepage](http://qt-project.org)) made in c++
 - gdk-pixbuf: ([homepage](https://gitlab.gnome.org/GNOME/gdk-pixbuf/)) made in c
 - hiredis: ([homepage](https://github.com/redis/hiredis)) made in c
