@@ -629,6 +629,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - typst: ([homepage](https://typst.app/)) made in rust
 - requests: ([homepage](https://requests.readthedocs.io/en/master/)) made in
   python
+- radvd: ([homepage](http://www.litech.org/radvd)) made in c
 - qt: ([homepage](http://qt-project.org)) made in c++
 - gdk-pixbuf: ([homepage](https://gitlab.gnome.org/GNOME/gdk-pixbuf/)) made in c
 - hiredis: ([homepage](https://github.com/redis/hiredis)) made in c
