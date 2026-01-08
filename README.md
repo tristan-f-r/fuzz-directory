@@ -592,6 +592,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   in c++
 - pyparsing: ([homepage](https://github.com/pyparsing/pyparsing)) made in python
 - javy: ([homepage](https://github.com/bytecodealliance/javy)) made in rust
+- pycups: ([homepage](https://github.com/OpenPrinting/pycups)) made in python
 - tyrus: ([homepage](https://github.com/eclipse-ee4j/tyrus)) made in jvm
 - unicode-rs: ([homepage](http://unicode-rs.github.io/)) made in rust
 - smart_open: ([homepage](https://github.com/RaRe-Technologies/smart_open)) made
@@ -1233,6 +1234,8 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - lz4: ([homepage](https://github.com/lz4/lz4)) made in c++
 - e2fsprogs: ([homepage](https://github.com/tytso/e2fsprogs)) made in c
 - gopsutil: ([homepage](https://github.com/shirou/gopsutil)) made in go
+- anise: ([homepage](https://docs.rs/anise/latest/anise/index.html)) made in
+  rust
 - istio: ([homepage](https://github.com/istio/istio)) made in go
 - cppcheck: ([homepage](https://cppcheck.sourceforge.net)) made in c++
 - jaxb: ([homepage](https://eclipse-ee4j.github.io/jaxb-ri/)) made in jvm
