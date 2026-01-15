@@ -21,6 +21,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - util-linux: ([homepage](https://github.com/util-linux/util-linux)) made in c
 - json-c: ([homepage](https://json-c.github.io/json-c/)) made in c++
 - libsndfile: ([homepage](https://github.com/libsndfile/libsndfile)) made in c
+- thrift-rust: ([homepage](https://thrift.apache.org/)) made in rust
 - blackfriday: ([homepage](https://github.com/russross/blackfriday)) made in go
 - librosa: ([homepage](https://librosa.org/doc/latest/index.html)) made in
   python
@@ -172,6 +173,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - bad_example: ([homepage](http://www.zlib.net/)) made in c++
 - wasmedge: ([homepage](https://github.com/WasmEdge/WasmEdge)) made in c++
 - cura-engine: ([homepage](https://github.com/Ultimaker/CuraEngine)) made in c++
+- thrift-py: ([homepage](https://thrift.apache.org/)) made in python
 - cryptsetup: ([homepage](https://gitlab.com/cryptsetup/cryptsetup)) made in c
 - fontations: ([homepage](https://github.com/googlefonts/fontations)) made in
   rust
@@ -471,7 +473,6 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   python
 - bc-java: ([homepage](https://www.bouncycastle.org/)) made in jvm
 - libyaml: ([homepage](https://github.com/yaml/libyaml)) made in c++
-- thrift: ([homepage](https://thrift.apache.org/)) made in c++
 - g-py-bigquery: ([homepage](https://github.com/googleapis/python-bigquery))
   made in python
 - jts: ([homepage](https://github.com/locationtech/jts)) made in jvm
@@ -505,6 +506,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   jvm
 - cups-filters: ([homepage](https://github.com/OpenPrinting/cups-filters)) made
   in c++
+- thrift-go: ([homepage](https://thrift.apache.org/)) made in go
 - firestore: ([homepage](https://firebase.google.com/docs/firestore/)) made in
   c++
 - apache-doris: ([homepage](https://doris.apache.org)) made in c++
@@ -617,6 +619,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   made in python
 - protoc-gen-validate:
   ([homepage](https://github.com/bufbuild/protoc-gen-validate)) made in go
+- thrift-cpp: ([homepage](https://thrift.apache.org/)) made in c++
 - jq: ([homepage](https://jqlang.github.io/jq)) made in c
 - ron: ([homepage](https://github.com/ron-rs/ron)) made in rust
 - burntsushi-toml: ([homepage](https://github.com/BurntSushi/toml)) made in go
@@ -1009,6 +1012,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - opensc: ([homepage](https://github.com/OpenSC/OpenSC/)) made in c++
 - unirest-java: ([homepage](https://github.com/Mashape/unirest-java)) made in
   jvm
+- thrift-js: ([homepage](https://thrift.apache.org/)) made in javascript
 - open62541: ([homepage](https://open62541.org/)) made in c++
 - g-api-auth-httplib2:
   ([homepage](https://github.com/googleapis/google-auth-library-python-httplib2))
@@ -1336,6 +1340,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - pendulum: ([homepage](https://github.com/sdispater/pendulum)) made in python
 - tensorflow-py: ([homepage](https://www.tensorflow.org)) made in python
 - go-cmp: ([homepage](https://github.com/google/go-cmp/cmp)) made in go
+- thrift-c_glib: ([homepage](https://thrift.apache.org/)) made in c
 - fonttools: ([homepage](https://github.com/behdad/fonttools)) made in python
 - serde-yaml: ([homepage](https://github.com/dtolnay/serde-yaml)) made in rust
 - libpcap: ([homepage](https://www.tcpdump.org)) made in c++
@@ -1624,6 +1629,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - sqlite3: ([homepage](https://sqlite.org/)) made in c++
 - weechat: ([homepage](https://github.com/weechat/weechat)) made in undefined
 - rhai: ([homepage](rhai.rs)) made in rust
+- thrift-java: ([homepage](https://thrift.apache.org/)) made in jvm
 - simplejson: ([homepage](https://github.com/simplejson/simplejson)) made in
   python
 - gnutls: ([homepage](https://www.gnutls.org)) made in c++
