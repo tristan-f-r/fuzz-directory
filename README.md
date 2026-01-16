@@ -622,6 +622,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - thrift-cpp: ([homepage](https://thrift.apache.org/)) made in c++
 - jq: ([homepage](https://jqlang.github.io/jq)) made in c
 - ron: ([homepage](https://github.com/ron-rs/ron)) made in rust
+- lua-example: ([homepage](https://github.com/ligurio/luzer)) made in c
 - burntsushi-toml: ([homepage](https://github.com/BurntSushi/toml)) made in go
 - opencensus-java: ([homepage](https://opencensus.io/)) made in jvm
 - apache-cxf: ([homepage](https://cxf.apache.org/)) made in jvm
