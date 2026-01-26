@@ -1479,7 +1479,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - rfc3967: ([homepage](https://github.com/python-hyper/rfc3986)) made in python
 - kryo: ([homepage](http://esotericsoftware.com/)) made in jvm
 - neqo: ([homepage](https://github.com/mozilla/neqo)) made in rust
-- cmake: ([homepage](https://gitlab.kitware.com/cmake/cmake)) made in c
+- cmake: ([homepage](https://gitlab.kitware.com/cmake/cmake)) made in c++
 - kamailio: ([homepage](www.kamailio.org)) made in c
 - ampproject: ([homepage](https://github.com/ampproject/amphtml)) made in c++
 - oatpp: ([homepage](https://oatpp.io/)) made in c++
