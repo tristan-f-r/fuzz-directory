@@ -194,6 +194,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - tinygltf: ([homepage](https://github.com/syoyo/tinygltf)) made in c++
 - pikepdf: ([homepage](https://pikepdf.readthedocs.io/en/latest/index.html))
   made in python
+- userver: ([homepage](https://userver.tech/)) made in c++
 - open5gs: ([homepage](https://open5gs.org)) made in c
 - runc: ([homepage](https://github.com/opencontainers/runc)) made in go
 - lodash: ([homepage](https://lodash.com/)) made in javascript
