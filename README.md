@@ -567,6 +567,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   jvm
 - apache-axis2: ([homepage](https://axis.apache.org/axis2/java/core/)) made in
   jvm
+- openjph: ([homepage](https://github.com/aous72/OpenJPH)) made in c++
 - javassist: ([homepage](http://www.javassist.org/)) made in jvm
 - sudoers: ([homepage](https://github.com/sudo-project)) made in c
 - packaging: ([homepage](https://github.com/pypa/packaging)) made in python
