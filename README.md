@@ -1260,6 +1260,8 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - c-blosc: ([homepage](https://github.com/Blosc/c-blosc)) made in c++
 - apache-felix-dev: ([homepage](https://felix.apache.org/)) made in jvm
 - hugo: ([homepage](https://github.com/gohugoio/hugo)) made in go
+- phosphor-host-ipmid:
+  ([homepage](https://github.com/openbmc/phosphor-host-ipmid)) made in c++
 - mxj: ([homepage](https://github.com/clbanning/mxj)) made in go
 - opendnp3: ([homepage](http://www.automatak.com/opendnp3/)) made in c++
 - spdm-rs: ([homepage](https://github.com/ccc-spdm-tools/spdm-rs)) made in rust
