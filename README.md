@@ -1059,6 +1059,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - jackson-datatypes-collections:
   ([homepage](https://github.com/FasterXML/jackson-datatypes-collections)) made
   in jvm
+- bmcweb: ([homepage](https://github.com/openbmc/bmcweb)) made in c++
 - xerces: ([homepage](https://xerces.apache.org/index.html)) made in jvm
 - openweave: ([homepage](https://openweave.io)) made in c++
 - libigl: ([homepage](https://libigl.github.io)) made in c++
