@@ -1215,6 +1215,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - cups: ([homepage](https://openprinting.github.io/cups/)) made in c
 - fluent-bit: ([homepage](https://github.com/fluent/fluent-bit)) made in c++
 - utf8proc: ([homepage](http://juliastrings.github.io/utf8proc/)) made in c
+- u-boot: ([homepage](https://u-boot.readthedocs.io/)) made in c
 - cachetools: ([homepage](https://github.com/tkem/cachetools/)) made in python
 - bls-signatures: ([homepage](https://github.com/supranational/blst)) made in
   c++
