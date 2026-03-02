@@ -323,6 +323,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - keystone: ([homepage](https://www.keystone-engine.org)) made in c++
 - apache-commons-beanutils:
   ([homepage](https://commons.apache.org/proper/commons-beanutils/)) made in jvm
+- deno: ([homepage](https://github.com/denoland/deno)) made in rust
 - llvm_libcxxabi: ([homepage](https://libcxxabi.llvm.org/)) made in c++
 - networkx: ([homepage](https://github.com/networkx/networkx)) made in python
 - open62541: ([homepage](https://open62541.org/)) made in c++
