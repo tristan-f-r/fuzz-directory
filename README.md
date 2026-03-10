@@ -831,7 +831,6 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   ([homepage](https://github.com/googleapis/google-auth-library-python-httplib2))
   made in python
 - quick-xml: ([homepage](https://github.com/tafia/quick-xml)) made in rust
-- fonttools: ([homepage](https://github.com/behdad/fonttools)) made in python
 - kmime: ([homepage](https://invent.kde.org/pim/kmime.git/)) made in c++
 - opusfile: ([homepage](https://opus-codec.org/)) made in c
 - hcl: ([homepage](https://github.com/hashicorp/hcl)) made in go
