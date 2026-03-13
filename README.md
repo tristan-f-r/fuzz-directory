@@ -895,6 +895,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - gcp-python-cloud-storage:
   ([homepage](https://github.com/googleapis/python-storage)) made in python
 - mccabe: ([homepage](https://github.com/pycqa/mccabe)) made in python
+- symphonia: ([homepage](https://docs.rs/symphonia/)) made in rust
 - g-api-python-tasks:
   ([homepage](https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-tasks))
   made in python
