@@ -1298,6 +1298,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - notary: ([homepage](https://github.com/notaryproject/notary)) made in go
 - teleport: ([homepage](https://github.com/gravitational/teleport)) made in go
 - go-snappy: ([homepage](https://github.com/golang/snappy)) made in go
+- dcmtk: ([homepage](https://dicom.offis.de/dcmtk.php.en)) made in c++
 - tinygltf: ([homepage](https://github.com/syoyo/tinygltf)) made in c++
 - urlextract: ([homepage](https://github.com/lipoja/URLExtract)) made in python
 - tomlkit: ([homepage](https://github.com/sdispater/tomlkit)) made in python
