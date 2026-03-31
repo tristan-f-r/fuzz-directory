@@ -1342,6 +1342,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - lighttpd: ([homepage](https://www.lighttpd.net/)) made in c
 - jdom: ([homepage](http://jdom.org/)) made in jvm
 - cfengine: ([homepage](https://github.com/cfengine/core)) made in c++
+- yyjson: ([homepage](https://github.com/ibireme/yyjson)) made in c
 - libssh: ([homepage](https://libssh.org/)) made in c
 - aiohttp: ([homepage](https://github.com/aio-libs/aiohttp)) made in python
 - lima: ([homepage](https://lima-vm.io/)) made in go
