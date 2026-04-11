@@ -255,8 +255,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - jimp: ([homepage](https://github.com/jimp-dev/jimp)) made in javascript
 - mosh: ([homepage](https://mosh.org)) made in c++
 - lame: ([homepage](https://sourceforge.net/projects/lame/)) made in c++
-- docutils: ([homepage](https://github.com/jwilk-mirrors/docutils)) made in
-  python
+- docutils: ([homepage](https://docutils.sourceforge.io)) made in python
 - libunwind: ([homepage](https://www.nongnu.org/libunwind/)) made in c
 - apache-felix-dev: ([homepage](https://felix.apache.org/)) made in jvm
 - botan: ([homepage](https://botan.randombit.net)) made in c++
