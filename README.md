@@ -115,8 +115,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - monero: ([homepage](https://getmonero.org/)) made in c++
 - gonids: ([homepage](https://github.com/google/gonids)) made in go
 - ohc: ([homepage](https://github.com/snazy/ohc)) made in jvm
-- tinyusb: Couldn't parse.
-  [View file](https://github.com/google/oss-fuzz/blob/master/projects/tinyusb/project.yaml).
+- tinyusb: ([homepage](https://docs.tinyusb.org/en/latest/)) made in c++
 - bitcoin-core: ([homepage](https://bitcoincore.org/)) made in c++
 - gnucobol: ([homepage](https://www.gnu.org/software/gnucobol/)) made in c
 - u-boot: ([homepage](https://u-boot.readthedocs.io/)) made in c
