@@ -101,7 +101,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - rocksdb: ([homepage](https://github.com/facebook/rocksdb)) made in c++
 - openssh: ([homepage](https://www.openssh.com/)) made in c++
 - sql-parser: ([homepage](https://github.com/hyrise/sql-parser)) made in c++
-- rustls: ([homepage](https://github.com/ctz/rustls)) made in rust
+- rustls: ([homepage](https://github.com/rustls/rustls)) made in rust
 - asn1crypto: ([homepage](https://github.com/wbond/asn1crypto)) made in python
 - apache-cxf: ([homepage](https://cxf.apache.org/)) made in jvm
 - tinysparql: ([homepage](http://tinysparql.org)) made in c
