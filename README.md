@@ -304,7 +304,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - hostap: ([homepage](https://w1.fi/cvs.html)) made in c++
 - dnspython: ([homepage](https://github.com/rthalley/dnspython)) made in python
 - fast-dds: ([homepage](https://www.eprosima.com/)) made in c++
-- skcms: ([homepage](https://skia.googlesource.com/skcms/+/master)) made in c++
+- skcms: ([homepage](https://skia.googlesource.com/skcms/)) made in c++
 - cosmos-sdk: ([homepage](https://github.com/cosmos/cosmos-sdk)) made in go
 - protocompile: ([homepage](https://github.com/bufbuild/protocompile)) made in
   go
@@ -532,7 +532,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - ox-ruby: ([homepage](https://github.com/ohler55/ox)) made in ruby
 - scipy: ([homepage](https://github.com/scipy/scipy)) made in python
 - s2geometry: ([homepage](https://github.com/google/s2geometry)) made in c++
-- skia: ([homepage](https://github.com/google/skia)) made in c++
+- skia: ([homepage](https://skia.googlesource.com/skia)) made in c++
 - liblouis: ([homepage](https://github.com/liblouis/liblouis)) made in c
 - c-ares: ([homepage](https://c-ares.haxx.se/)) made in c++
 - jwt-verify-lib: ([homepage](https://github.com/google/jwt_verify_lib)) made in
