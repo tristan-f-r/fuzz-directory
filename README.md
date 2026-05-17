@@ -794,6 +794,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   ([homepage](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS))
   made in c++
 - spdlog: ([homepage](https://github.com/gabime/spdlog)) made in c++
+- wolfboot: ([homepage](https://www.wolfssl.com/products/wolfboot/)) made in c++
 - qubes-os: ([homepage](https://www.qubes-os.org/)) made in c++
 - jxls: ([homepage](https://github.com/jxlsteam/jxls)) made in jvm
 - zstd-safe: ([homepage](https://github.com/gyscos/zstd-rs)) made in rust
