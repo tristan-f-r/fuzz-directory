@@ -1419,6 +1419,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   rust
 - gdbm: ([homepage](https://www.gnu.org.ua/software/gdbm)) made in c
 - pyrsistent: ([homepage](https://github.com/tobgu/pyrsistent)) made in python
+- postcss: ([homepage](https://postcss.org/)) made in javascript
 - fuzzing-puzzles: ([homepage](https://github.com/google/fuzzer-test-suite))
   made in c++
 - avro: ([homepage](https://avro.apache.org/)) made in jvm
