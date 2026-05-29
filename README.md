@@ -1739,6 +1739,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - opencensus-go:
   ([homepage](https://github.com/census-instrumentation/opencensus-go)) made in
   go
+- pypy3: ([homepage](https://pypy.org/)) made in c
 - w3m: ([homepage](https://tracker.debian.org/pkg/w3m)) made in c
 - yyjson: ([homepage](https://github.com/ibireme/yyjson)) made in c
 - orjson: ([homepage](https://github.com/ijl/orjson)) made in python
