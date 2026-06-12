@@ -150,7 +150,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - dng_sdk:
   ([homepage](https://android.googlesource.com/platform/external/dng_sdk/)) made
   in c++
-- libcoap: ([homepage](https://libcoap.net/)) made in c++
+- libcoap: ([homepage](https://libcoap.net/)) made in c
 - prost: ([homepage](https://crates.io/crates/prost)) made in rust
 - charset_normalizer: ([homepage](https://github.com/jawah/charset_normalizer))
   made in python
