@@ -11,6 +11,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - spring-retry:
   ([homepage](https://ci.spring.io/teams/spring-retry/pipelines/spring-retry-2.0.x))
   made in jvm
+- erigon: ([homepage](https://erigon.tech/)) made in go
 - tar-rs: ([homepage](https://github.com/alexcrichton/tar-rs)) made in rust
 - thrift-js: ([homepage](https://thrift.apache.org/)) made in javascript
 - apache-cxf: ([homepage](https://cxf.apache.org/)) made in jvm
