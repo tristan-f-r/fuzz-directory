@@ -1526,6 +1526,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - kubeflow-model-registry:
   ([homepage](https://github.com/kubeflow/model-registry)) made in go
 - rxjava: ([homepage](https://reactivex.io/)) made in jvm
+- zenoh: ([homepage](https://zenoh.io/)) made in rust
 - arrow-java: ([homepage](https://arrow.apache.org/)) made in jvm
 - xerces-c: ([homepage](https://xerces.apache.org/)) made in c++
 - jaxb: ([homepage](https://eclipse-ee4j.github.io/jaxb-ri/)) made in jvm
