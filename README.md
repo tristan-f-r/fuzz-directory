@@ -748,6 +748,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - xlsxwriter: ([homepage](https://xlsxwriter.readthedocs.io/)) made in python
 - mxj: ([homepage](https://github.com/clbanning/mxj)) made in go
 - onnx: ([homepage](https://onnx.ai/)) made in python
+- harfrust: ([homepage](https://github.com/harfbuzz/harfrust)) made in rust
 - kubernetes-cluster-api: ([homepage](https://cluster-api.sigs.k8s.io)) made in
   go
 - ron: ([homepage](https://github.com/ron-rs/ron)) made in rust
