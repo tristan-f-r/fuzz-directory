@@ -255,6 +255,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - sqlalchemy-utils: ([homepage](https://github.com/kvesteri/sqlalchemy-utils))
   made in python
 - wireshark: ([homepage](https://www.wireshark.org)) made in c++
+- gpowerd: ([homepage](https://gbmc.googlesource.com/gPowerD/)) made in c++
 - hdrhistogram: ([homepage](https://github.com/HdrHistogram/HdrHistogram.git))
   made in jvm
 - cpp-httplib: ([homepage](https://github.com/yhirose/cpp-httplib)) made in c++
