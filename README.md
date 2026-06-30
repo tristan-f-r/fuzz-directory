@@ -831,6 +831,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   rust
 - cura-engine: ([homepage](https://github.com/Ultimaker/CuraEngine)) made in c++
 - quiche: ([homepage](https://github.com/google/quiche)) made in c++
+- pldm: ([homepage](https://gbmc.googlesource.com/pldm/)) made in c++
 - go-snappy: ([homepage](https://github.com/golang/snappy)) made in go
 - cachetools: ([homepage](https://github.com/tkem/cachetools/)) made in python
 - jose4j: ([homepage](https://bitbucket.org/b_c/jose4j/wiki/Home)) made in jvm
