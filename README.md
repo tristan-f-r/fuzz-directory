@@ -1595,6 +1595,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - snappy-java: ([homepage](https://github.com/xerial/snappy-java/)) made in jvm
 - syzkaller: ([homepage](https://github.com/google/syzkaller.git)) made in go
 - opendal: ([homepage](https://opendal.apache.org/)) made in rust
+- hothd: ([homepage](https://gbmc.googlesource.com/hothd)) made in c++
 - log4j2: ([homepage](https://logging.apache.org/log4j/2.x)) made in jvm
 - gitea: ([homepage](https://github.com/go-gitea/gitea)) made in go
 - cras: ([homepage](https://www.chromium.org)) made in rust
