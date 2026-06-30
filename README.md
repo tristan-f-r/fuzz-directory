@@ -78,6 +78,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   rust
 - closure-library: ([homepage](https://developers.google.com/closure/library/))
   made in javascript
+- estoraged: ([homepage](https://github.com/openbmc/estoraged)) made in c++
 - hibernate-validator:
   ([homepage](https://github.com/hibernate/hibernate-validator)) made in jvm
 - js-yaml: ([homepage](https://github.com/nodeca/js-yaml)) made in javascript
@@ -440,6 +441,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - e2fsprogs: ([homepage](https://github.com/tytso/e2fsprogs)) made in c
 - rfc3967: ([homepage](https://github.com/python-hyper/rfc3986)) made in python
 - opusfile: ([homepage](https://opus-codec.org/)) made in c
+- nsmd: ([homepage](https://gbmc.googlesource.com/nsmd)) made in c++
 - libpng: ([homepage](http://www.libpng.org/pub/png/libpng.html)) made in c++
 - osgi: ([homepage](https://docs.osgi.org/)) made in jvm
 - jimp: ([homepage](https://github.com/jimp-dev/jimp)) made in javascript
