@@ -421,6 +421,8 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   in go
 - openjph: ([homepage](https://github.com/aous72/OpenJPH)) made in c++
 - go-ldap: ([homepage](https://github.com/go-ldap/ldap)) made in go
+- gbmc-pacemaker: ([homepage](https://gbmc.googlesource.com/gbmcweb/)) made in
+  c++
 - zstd-safe: ([homepage](https://github.com/gyscos/zstd-rs)) made in rust
 - num-bigint: ([homepage](https://crates.io/crates/num-bigint)) made in c++
 - capstone: ([homepage](https://www.capstone-engine.org)) made in c++
@@ -854,6 +856,8 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - quick-xml: ([homepage](https://github.com/tafia/quick-xml)) made in rust
 - oauthlib: ([homepage](https://github.com/oauthlib/oauthlib)) made in python
 - snappy: ([homepage](https://github.com/google/snappy)) made in c++
+- dbus-sensors: ([homepage](https://github.com/openbmc/dbus-sensors)) made in
+  c++
 - zstd: ([homepage](http://facebook.github.io/zstd/)) made in c++
 - stb: ([homepage](https://github.com/nothings/stb)) made in c++
 - pyyaml: ([homepage](https://github.com/yaml/pyyaml)) made in python
