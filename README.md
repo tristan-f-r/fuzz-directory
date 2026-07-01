@@ -824,6 +824,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   python
 - connexion: ([homepage](https://github.com/spec-first/connexion)) made in
   python
+- pam-ipmi: ([homepage](https://github.com/openbmc/pam-ipmi)) made in c
 - requests: ([homepage](https://requests.readthedocs.io/en/master/)) made in
   python
 - autoflake: ([homepage](https://www.github.com/PyCQA/autoflake)) made in python
