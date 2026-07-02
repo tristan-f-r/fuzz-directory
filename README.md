@@ -388,6 +388,8 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - tinyusb: ([homepage](https://docs.tinyusb.org/en/latest/)) made in c++
 - jsc: ([homepage](https://webkit.org/)) made in c++
 - reload4j: ([homepage](https://reload4j.qos.ch)) made in jvm
+- ipmi-fru-parser: ([homepage](https://github.com/openbmc/ipmi-fru-parser)) made
+  in c++
 - boringssl: ([homepage](https://boringssl.googlesource.com/boringssl/)) made in
   c++
 - jsonpath: ([homepage](https://goessner.net/articles/JsonPath/)) made in jvm
@@ -450,6 +452,8 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - bz2file: ([homepage](https://github.com/nvawda/bz2file)) made in python
 - brpc: ([homepage](https://brpc.apache.org)) made in c++
 - libxaac: ([homepage](https://github.com/ittiam-systems/libxaac)) made in c++
+- phosphor-state-manager:
+  ([homepage](https://github.com/openbmc/phosphor-state-manager)) made in c++
 - nom: ([homepage](https://github.com/Geal/nom)) made in rust
 - osquery: ([homepage](https://osquery.io)) made in c++
 - knative: ([homepage](https://knative.dev/)) made in go
