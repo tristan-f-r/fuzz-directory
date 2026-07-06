@@ -1159,6 +1159,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - pyasn1-modules: ([homepage](https://github.com/pyasn1/pyasn1-modules)) made in
   python
 - postgis: ([homepage](http://postgis.net/)) made in c++
+- iniparser: ([homepage](https://gitlab.com/iniparser/iniparser)) made in c
 - itoa: ([homepage](https://github.com/dtolnay/itoa)) made in rust
 - g-cloud-logging-py: ([homepage](https://github.com/googleapis/python-logging))
   made in python
@@ -1444,6 +1445,9 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   jvm
 - xmlpull: ([homepage](https://github.com/xmlpull-org/xmlpull-api-v1)) made in
   jvm
+- phosphor-certificate-manager:
+  ([homepage](https://github.com/openbmc/phosphor-certificate-manager)) made in
+  c++
 - cel-go: ([homepage](https://opensource.google/projects/cel)) made in go
 - pyasn1: ([homepage](https://github.com/etingof/pyasn1)) made in python
 - gson: ([homepage](https://github.com/google/gson)) made in jvm
