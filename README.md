@@ -331,6 +331,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   ([homepage](https://invent.kde.org/frameworks/kimageformats.git/)) made in c++
 - oracle-py-cx: ([homepage](https://github.com/oracle/python-cx_Oracle)) made in
   python
+- httrack: ([homepage](https://www.httrack.com/)) made in c
 - data-encoding: ([homepage](https://github.com/ia0/data-encoding)) made in rust
 - qubes-os: ([homepage](https://www.qubes-os.org/)) made in c++
 - hwloc: ([homepage](https://github.com/open-mpi/hwloc)) made in c
