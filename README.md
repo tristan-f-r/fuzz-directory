@@ -893,6 +893,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - gpac: ([homepage](https://gpac.io)) made in c
 - xmldom: ([homepage](https://github.com/xmldom/xmldom)) made in javascript
 - lodash: ([homepage](https://lodash.com/)) made in javascript
+- apache-shiro: ([homepage](https://shiro.apache.org)) made in jvm
 - spice-usbredir: ([homepage](https://www.spice-space.org/usbredir.html)) made
   in c++
 - pest: ([homepage](https://github.com/pest-parser/pest)) made in rust
