@@ -261,6 +261,8 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - simdutf: ([homepage](https://simdutf.github.io/simdutf)) made in c++
 - pasta: ([homepage](https://github.com/google/pasta)) made in python
 - cras: ([homepage](https://www.chromium.org)) made in rust
+- kconfig: ([homepage](https://invent.kde.org/frameworks/kconfig.git/)) made in
+  c++
 - pdf-js: ([homepage](https://github.com/mozilla/pdf.js)) made in javascript
 - snort3: ([homepage](https://www.snort.org/snort3)) made in c++
 - rdf4j: ([homepage](https://github.com/eclipse/rdf4j)) made in jvm
