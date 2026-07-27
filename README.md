@@ -499,7 +499,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   python
 - kubernetes: ([homepage](https://kubernetes.io)) made in go
 - python-markdownify:
-  ([homepage](http://github.com/matthewwithanm/python-markdownify)) made in
+  ([homepage](https://github.com/matthewwithanm/python-markdownify)) made in
   python
 - surrealdb: ([homepage](https://surrealdb.com/)) made in rust
 - mandelbulber: ([homepage](https://github.com/buddhi1980/mandelbulber2/)) made
