@@ -200,8 +200,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   ([homepage](https://searchfox.org/mozilla-central/source/js/src/fuzz-tests/README))
   made in c++
 - scapy: ([homepage](https://scapy.net)) made in python
-- poppler: Couldn't parse.
-  [View file](https://github.com/google/oss-fuzz/blob/master/projects/poppler/project.yaml).
+- poppler: ([homepage](https://poppler.freedesktop.org/)) made in c++
 - hpn-ssh: ([homepage](https://www.psc.edu/home-hpn-ssh)) made in c++
 - go-toml: ([homepage](https://github.com/pelletier/go-toml)) made in go
 - fuzztest-example: ([homepage](https://github.com/google/fuzztest)) made in c++
@@ -943,8 +942,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - nanopb: ([homepage](https://jpa.kapsi.fi/nanopb/)) made in c++
 - openpyxl: ([homepage](https://foss.heptapod.net/openpyxl/openpyxl)) made in
   python
-- rust-coreutils: Couldn't parse.
-  [View file](https://github.com/google/oss-fuzz/blob/master/projects/rust-coreutils/project.yaml).
+- rust-coreutils: ([homepage](https://crates.io/crates/coreutils)) made in rust
 - quiche: ([homepage](https://github.com/google/quiche)) made in c++
 - php: ([homepage](http://php.net/)) made in c++
 - g-api-resource-manager:
