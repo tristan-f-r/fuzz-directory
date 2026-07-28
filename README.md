@@ -813,6 +813,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - jq: ([homepage](https://jqlang.github.io/jq)) made in c
 - wolfssl: ([homepage](https://www.wolfssl.com/)) made in c++
 - iroha: ([homepage](https://github.com/hyperledger/iroha)) made in c++
+- thrift-rb: ([homepage](https://thrift.apache.org/)) made in ruby
 - python-multipart: ([homepage](https://github.com/Kludex/python-multipart))
   made in python
 - libigl: ([homepage](https://libigl.github.io)) made in c++
