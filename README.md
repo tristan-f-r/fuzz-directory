@@ -460,6 +460,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   python
 - libhtp: ([homepage](https://github.com/OISF/libhtp)) made in c
 - mfcmapi: ([homepage](https://github.com/microsoft/mfcmapi)) made in c++
+- zxc: ([homepage](https://github.com/hellobertrand/zxc)) made in c
 - libultrahdr: ([homepage](https://github.com/google/libultrahdr)) made in c++
 - avro: ([homepage](https://avro.apache.org/)) made in jvm
 - nokogiri: ([homepage](nokogiri.org)) made in c
