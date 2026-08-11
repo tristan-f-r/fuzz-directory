@@ -394,6 +394,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - pyzmq: ([homepage](https://github.com/zeromq/pyzmq)) made in python
 - libyang: ([homepage](https://github.com/CESNET/libyang)) made in c
 - ring: ([homepage](https://github.com/briansmith/ring)) made in undefined
+- mod-auth-openidc: ([homepage](https://www.openidc.com/)) made in c
 - kcodecs: ([homepage](https://invent.kde.org/frameworks/kcodecs.git/)) made in
   c++
 - libvpx: ([homepage](https://www.webmproject.org)) made in c++
