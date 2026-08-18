@@ -76,6 +76,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - gfwx: ([homepage](http://www.gfwx.org/)) made in c++
 - go-snappy: ([homepage](https://github.com/golang/snappy)) made in go
 - js-yaml: ([homepage](https://github.com/nodeca/js-yaml)) made in javascript
+- hobbes: ([homepage](https://github.com/morganstanley/hobbes)) made in c++
 - krb5: ([homepage](https://web.mit.edu/kerberos/)) made in c
 - openssl: ([homepage](https://www.openssl.org/)) made in c++
 - filelock: ([homepage](https://github.com/google/oss-fuzz/pull/8244)) made in
