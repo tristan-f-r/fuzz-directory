@@ -940,6 +940,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - g-auth-library-java: ([homepage](developers.google.com/identity)) made in jvm
 - u-boot: ([homepage](https://u-boot.readthedocs.io/)) made in c
 - glslang: ([homepage](https://github.com/khronosgroup/glslang)) made in c++
+- dr_libs: ([homepage](https://github.com/mackron/dr_libs/)) made in c++
 - httplib2: ([homepage](https://github.com/httplib2/httplib2)) made in python
 - mruby: ([homepage](https://www.mruby.org/)) made in c++
 - markdown-it-py:
