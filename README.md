@@ -258,6 +258,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - rocksdb: ([homepage](https://github.com/facebook/rocksdb)) made in c++
 - easywsclient: ([homepage](https://github.com/dhbaird/easywsclient)) made in
   c++
+- ocudu: ([homepage](ocudu.org)) made in c++
 - evo-inflector: ([homepage](https://github.com/atteo/evo-inflector)) made in
   jvm
 - gogo-protobuf: ([homepage](https://github.com/gogo/protobuf)) made in go
