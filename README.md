@@ -848,6 +848,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - mdit-py-plugins:
   ([homepage](https://github.com/executablebooks/mdit-py-plugins)) made in
   python
+- r: ([homepage](https://www.r-project.org/)) made in c
 - java-jwt: ([homepage](https://github.com/auth0/java-jwt/)) made in jvm
 - jerryscript: ([homepage](https://jerryscript.net)) made in c
 - jc: ([homepage](https://kellyjonbrazil.github.io/jc/docs/)) made in python
