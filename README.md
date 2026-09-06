@@ -1226,6 +1226,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - varnish: ([homepage](https://varnish-cache.org/)) made in c
 - gobgp: ([homepage](https://osrg.github.io/gobgp)) made in go
 - maven-model: ([homepage](https://github.com/apache/maven)) made in jvm
+- taglib: ([homepage](https://taglib.org/)) made in c++
 - javascript-example:
   ([homepage](https://github.com/CodeIntelligenceTesting/jazzer.js)) made in
   javascript
