@@ -488,6 +488,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   ([homepage](https://github.com/openbmc/phosphor-certificate-manager)) made in
   c++
 - unicode-rs: ([homepage](http://unicode-rs.github.io/)) made in rust
+- avm: ([homepage](https://github.com/AOMediaCodec/avm)) made in c++
 - liboqs: ([homepage](https://openquantumsafe.org/)) made in c
 - libheif: ([homepage](https://github.com/strukturag/libheif)) made in c++
 - curl: ([homepage](https://curl.haxx.se/)) made in c++
