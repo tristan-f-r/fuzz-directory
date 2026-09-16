@@ -1037,6 +1037,8 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   made in jvm
 - qs: ([homepage](https://github.com/ljharb/qs)) made in c++
 - ntopng: ([homepage](https://github.com/ntop/ntopng/)) made in c++
+- phosphor-networkd: ([homepage](https://github.com/openbmc/phosphor-networkd))
+  made in c++
 - tokio: ([homepage](https://tokio.rs/)) made in rust
 - go-containerregistry:
   ([homepage](https://github.com/google/go-containerregistry)) made in go
