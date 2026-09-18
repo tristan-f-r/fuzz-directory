@@ -86,6 +86,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - tremor: ([homepage](https://xiph.org/vorbis/)) made in c++
 - exprtk: ([homepage](https://www.partow.net/programming/exprtk/index.html))
   made in c++
+- libnfs: ([homepage](https://github.com/sahlberg/libnfs)) made in c
 - jsonnet: ([homepage](https://github.com/google/jsonnet)) made in c++
 - model-transparency:
   ([homepage](https://github.com/sigstore/model-transparency)) made in python
