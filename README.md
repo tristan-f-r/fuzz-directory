@@ -758,7 +758,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - lodash: ([homepage](https://lodash.com/)) made in javascript
 - cbor2: ([homepage](https://github.com/agronholm/cbor2)) made in python
 - parse: ([homepage](https://github.com/r1chardj0n3s/parse)) made in python
-- pcre2: ([homepage](http://www.pcre.org/)) made in c++
+- pcre2: ([homepage](http://www.pcre.org/)) made in c
 - pngquant: ([homepage](https://pngquant.org)) made in c
 - oauth2: ([homepage](https://github.com/googleapis/oauth2client)) made in
   python
