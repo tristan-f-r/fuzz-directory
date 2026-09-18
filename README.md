@@ -236,6 +236,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   in go
 - dapr: ([homepage](https://dapr.io/)) made in go
 - fsnotify: ([homepage](https://github.com/fsnotify/fsnotify)) made in go
+- zebra: ([homepage](https://github.com/ZcashFoundation/zebra)) made in rust
 - kubeedge: ([homepage](https://kubeedge.io/en/)) made in go
 - freeimage: ([homepage](http://freeimage.sourceforge.net/)) made in c++
 - llvm_libcxxabi: ([homepage](https://libcxxabi.llvm.org/)) made in c++
