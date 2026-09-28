@@ -483,7 +483,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - pyvex: ([homepage](https://api.angr.io/projects/pyvex/en/latest/api.html))
   made in python
 - vorbis: ([homepage](https://xiph.org/vorbis/)) made in c++
-- git: ([homepage](https://git-scm.com)) made in rust
+- git: ([homepage](https://git-scm.com)) made in c++
 - stringtemplate4: ([homepage](https://github.com/antlr/stringtemplate4)) made
   in jvm
 - guice: ([homepage](https://github.com/google/guice)) made in jvm
