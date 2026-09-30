@@ -1308,6 +1308,8 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - lucene: ([homepage](https://lucene.apache.org/)) made in jvm
 - arrow-py: ([homepage](https://github.com/arrow-py/arrow)) made in python
 - gpac: ([homepage](https://gpac.io)) made in c
+- connect-ip-go: ([homepage](https://github.com/quic-go/connect-ip-go)) made in
+  go
 - vulnerable-project: ([homepage](https://github.com/google/oss-fuzz)) made in
   c++
 - postgresql: ([homepage](https://postgresql.org)) made in c
