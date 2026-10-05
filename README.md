@@ -1011,6 +1011,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - angus-mail: ([homepage](https://eclipse-ee4j.github.io/mail)) made in jvm
 - toolz: ([homepage](https://github.com/pytoolz/toolz)) made in python
 - cascadia: ([homepage](https://github.com/andybalholm/cascadia)) made in go
+- iso14229: ([homepage](https://github.com/driftregion/iso14229)) made in c
 - rekor: ([homepage](https://sigstore.dev)) made in go
 - boringssl: ([homepage](https://boringssl.googlesource.com/boringssl/)) made in
   c++
