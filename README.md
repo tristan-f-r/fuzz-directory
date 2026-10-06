@@ -1011,6 +1011,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - angus-mail: ([homepage](https://eclipse-ee4j.github.io/mail)) made in jvm
 - toolz: ([homepage](https://github.com/pytoolz/toolz)) made in python
 - cascadia: ([homepage](https://github.com/andybalholm/cascadia)) made in go
+- barebox: ([homepage](https://www.barebox.org)) made in c
 - iso14229: ([homepage](https://github.com/driftregion/iso14229)) made in c
 - rekor: ([homepage](https://sigstore.dev)) made in go
 - boringssl: ([homepage](https://boringssl.googlesource.com/boringssl/)) made in
@@ -1362,6 +1363,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - wolfmqtt: ([homepage](https://www.wolfssl.com/products/wolfmqtt/)) made in c
 - dragonfly: ([homepage](https://github.com/dragonflyoss/Dragonfly)) made in go
 - dulwich: ([homepage](https://github.com/jelmer/dulwich)) made in python
+- safere: ([homepage](https://safere.org)) made in jvm
 - astc-encoder: ([homepage](https://github.com/ARM-software/astc-encoder)) made
   in c++
 - tink-cc: ([homepage](https://developers.google.com/tink)) made in c++
