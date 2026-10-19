@@ -132,6 +132,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - go-sftp: ([homepage](https://github.com/pkg/sftp)) made in go
 - mvel: ([homepage](https://github.com/mvel/mvel/)) made in jvm
 - opensips: ([homepage](https://opensips.org/)) made in c
+- exelearning: ([homepage](https://exelearning.net)) made in javascript
 - kde-thumbnailers: ([homepage](https://invent.kde.org/network/kio-extras.git))
   made in c++
 - ring: ([homepage](https://github.com/briansmith/ring)) made in undefined
