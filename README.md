@@ -1001,6 +1001,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   ([homepage](https://github.com/openbmc/phosphor-host-ipmid)) made in c++
 - miniz_oxide: ([homepage](https://github.com/Frommi/miniz_oxide)) made in rust
 - json-java: ([homepage](https://github.com/stleary/JSON-java)) made in jvm
+- fallow: ([homepage](https://fallow.tools)) made in rust
 - pistache: ([homepage](http://pistache.io)) made in c++
 - hibernate-orm: ([homepage](https://hibernate.org/)) made in jvm
 - espeak-ng: ([homepage](https://github.com/espeak-ng/espeak-ng)) made in c++
