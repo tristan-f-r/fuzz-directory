@@ -859,6 +859,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - libaom: ([homepage](https://aomedia.org/av1-features/get-started/)) made in
   c++
 - javassist: ([homepage](http://www.javassist.org/)) made in jvm
+- toolhive: ([homepage](https://docs.stacklok.com/toolhive/)) made in go
 - prometheus: ([homepage](https://github.com/prometheus/prometheus)) made in go
 - exp4j: ([homepage](https://github.com/fasseg/exp4j)) made in jvm
 - nom: ([homepage](https://github.com/Geal/nom)) made in rust
