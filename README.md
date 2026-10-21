@@ -648,6 +648,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   in jvm
 - libhtp: ([homepage](https://github.com/OISF/libhtp)) made in c
 - protobuf-c: ([homepage](https://github.com/protobuf-c/protobuf-c)) made in c
+- turbohtml: ([homepage](https://github.com/tox-dev/turbohtml)) made in python
 - ecc-diff-fuzzer:
   ([homepage](https://github.com/catenacyber/elliptic-curve-differential-fuzzer))
   made in c++
