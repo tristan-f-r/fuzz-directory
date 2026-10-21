@@ -662,6 +662,8 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   ([homepage](https://github.com/googleapis/google-auth-library-python)) made in
   python
 - go-yaml: ([homepage](https://github.com/go-yaml/yaml)) made in go
+- selkies: ([homepage](https://github.com/selkies-project/selkies)) made in
+  python
 - aspectj: ([homepage](https://www.eclipse.org/aspectj/)) made in jvm
 - pydantic: ([homepage](https://github.com/pydantic/pydantic)) made in python
 - sqlite3: ([homepage](https://sqlite.org/)) made in c++
@@ -1334,6 +1336,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   python
 - h11: ([homepage](https://github.com/python-hyper/h11)) made in python
 - autopep8: ([homepage](https://github.com/hhatto/autopep8)) made in python
+- cel-rust: ([homepage](https://github.com/cel-rust/cel-rust)) made in rust
 - dask: ([homepage](https://github.com/dask/dask)) made in python
 - spring-security:
   ([homepage](https://github.com/spring-projects/spring-security)) made in jvm
