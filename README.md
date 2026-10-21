@@ -1040,6 +1040,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   in python
 - ryu: ([homepage](https://github.com/dtolnay/ryu)) made in rust
 - onednn: ([homepage](https://github.com/uxlfoundation/oneDNN)) made in c++
+- ossec-hids: ([homepage](https://www.ossec.net/)) made in c
 - ocudu: ([homepage](ocudu.org)) made in c++
 - kubernetes-cluster-api: ([homepage](https://cluster-api.sigs.k8s.io)) made in
   go
