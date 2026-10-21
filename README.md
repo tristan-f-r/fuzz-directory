@@ -190,6 +190,8 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - pacemaker: ([homepage](https://www.clusterlabs.org/pacemaker/)) made in c
 - jfreechart: ([homepage](https://www.jfree.org/jfreechart/)) made in jvm
 - sleuthkit: ([homepage](https://sleuthkit.org)) made in c++
+- acme2certifier: ([homepage](https://github.com/grindsa/acme2certifier)) made
+  in python
 - joda-time: ([homepage](https://github.com/JodaOrg/joda-time)) made in jvm
 - networkx: ([homepage](https://github.com/networkx/networkx)) made in python
 - pugixml: ([homepage](https://github.com/zeux/pugixml)) made in c++
@@ -559,6 +561,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - metadata-extractor:
   ([homepage](https://github.com/drewnoakes/metadata-extractor)) made in jvm
 - ron: ([homepage](https://github.com/ron-rs/ron)) made in rust
+- sentrypeer: ([homepage](https://github.com/sentrypeer/sentrypeer)) made in c
 - asttokens: ([homepage](https://github.com/gristlabs/asttokens)) made in python
 - usbguard: ([homepage](https://usbguard.github.io/)) made in c++
 - apache-logging-log4cxx: ([homepage](https://logging.apache.org/log4cxx)) made
