@@ -774,6 +774,8 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - starlark-rust:
   ([homepage](https://github.com/facebookexperimental/starlark-rust/)) made in
   rust
+- libmongocrypt: ([homepage](https://github.com/mongodb/libmongocrypt)) made in
+  c
 - aspell: ([homepage](https://github.com/GNUAspell/aspell)) made in c++
 - rust-lexical: ([homepage](https://github.com/Alexhuszagh/rust-lexical)) made
   in rust
