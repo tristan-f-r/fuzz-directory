@@ -400,7 +400,6 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   made in python
 - rust-semver-parser:
   ([homepage](https://github.com/steveklabnik/semver-parser)) made in rust
-- solidity: ([homepage](https://solidity.readthedocs.io)) made in c++
 - liboqs: ([homepage](https://openquantumsafe.org/)) made in c
 - suricata: ([homepage](https://suricata.io)) made in rust
 - librosa: ([homepage](https://librosa.org/doc/latest/index.html)) made in
@@ -1759,6 +1758,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - zip-rs: ([homepage](https://github.com/zip-rs/zip)) made in rust
 - apache-commons-compress: ([homepage](https://commons.apache.org)) made in jvm
 - sigstore-java: ([homepage](https://www.sigstore.dev/)) made in jvm
+- mercure: ([homepage](https://mercure.rocks)) made in go
 - caddy: ([homepage](https://caddyserver.com/)) made in go
 - distlib: ([homepage](https://github.com/pypa/distlib)) made in python
 - opencsv: ([homepage](https://sourceforge.net/projects/opencsv/)) made in jvm
