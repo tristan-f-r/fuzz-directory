@@ -283,6 +283,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - xmlsec: ([homepage](https://www.aleksey.com/xmlsec/)) made in c++
 - zipp: ([homepage](https://github.com/jaraco/zipp)) made in python
 - fmt: ([homepage](https://github.com/fmtlib/fmt)) made in c++
+- qtpass: ([homepage](https://qtpass.org/)) made in c++
 - mybatis-3: ([homepage](https://github.com/mybatis/mybatis-3)) made in jvm
 - mp4san: ([homepage](https://github.com/signalapp/mp4san)) made in rust
 - dav1d: ([homepage](https://code.videolan.org/videolan/dav1d)) made in c++
@@ -325,6 +326,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   python
 - serde-yaml: ([homepage](https://github.com/dtolnay/serde-yaml)) made in rust
 - onnx: ([homepage](https://onnx.ai/)) made in python
+- frankenphp: ([homepage](https://frankenphp.dev)) made in go
 - systemd: ([homepage](https://freedesktop.org/wiki/Software/systemd/)) made in
   c++
 - mdbtools: ([homepage](https://github.com/mdbtools/mdbtools)) made in c
