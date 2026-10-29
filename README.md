@@ -43,6 +43,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - wavpack: ([homepage](http://www.wavpack.com)) made in c++
 - dom4j: ([homepage](https://github.com/dom4j/dom4j)) made in jvm
 - tinysparql: ([homepage](http://tinysparql.org)) made in c
+- tabularis: ([homepage](https://tabularis.dev)) made in rust
 - dpp: ([homepage](https://github.com/brainboxdotcc/DPP)) made in c++
 - h2o: ([homepage](https://github.com/h2o/h2o)) made in c++
 - uriparser: ([homepage](https://github.com/uriparser/uriparser)) made in c++
