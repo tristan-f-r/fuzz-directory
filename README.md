@@ -1536,6 +1536,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - qtpass: ([homepage](https://qtpass.org/)) made in c++
 - lucene: ([homepage](https://lucene.apache.org/)) made in jvm
 - toolz: ([homepage](https://github.com/pytoolz/toolz)) made in python
+- fastgltf: ([homepage](https://github.com/spnda/fastgltf)) made in c++
 - urlextract: ([homepage](https://github.com/lipoja/URLExtract)) made in python
 - dragonfly: ([homepage](https://github.com/dragonflyoss/Dragonfly)) made in go
 - radare2: ([homepage](https://github.com/radareorg/radare2)) made in c++
