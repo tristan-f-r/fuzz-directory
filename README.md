@@ -516,7 +516,6 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - bson-rust: ([homepage](https://github.com/mongodb/bson-rust)) made in rust
 - ply: ([homepage](https://github.com/dabeaz/ply)) made in python
 - nginx: ([homepage](http://nginx.org)) made in c
-- opentelemetry: ([homepage](https://opentelemetry.io/)) made in go
 - zip: ([homepage](https://github.com/kuba--/zip)) made in c
 - askama: ([homepage](https://askama.readthedocs.io/)) made in rust
 - opencensus-go:
@@ -974,6 +973,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   ([homepage](https://github.com/googleapis/python-storage)) made in python
 - flask-restx: ([homepage](https://github.com/python-restx/flask-restx)) made in
   python
+- opentelemetry-collector: ([homepage](https://opentelemetry.io/)) made in go
 - xmlunit: ([homepage](https://github.com/xmlunit/xmlunit)) made in jvm
 - go-dhcp: ([homepage](https://github.com/insomniacslk/dhcp)) made in go
 - fwupd: ([homepage](https://github.com/fwupd/fwupd)) made in c
@@ -1458,6 +1458,8 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   ([homepage](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS))
   made in c++
 - powerdns: ([homepage](https://www.powerdns.com/)) made in c++
+- opentelemetry-collector-contrib: ([homepage](https://opentelemetry.io/)) made
+  in go
 - jsonpath: ([homepage](https://goessner.net/articles/JsonPath/)) made in jvm
 - reflections: ([homepage](https://github.com/ronmamo/reflections)) made in jvm
 - exiv2: ([homepage](https://www.exiv2.org)) made in c++
