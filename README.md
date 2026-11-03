@@ -701,6 +701,8 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - antlr3-java: ([homepage](https://www.antlr.org)) made in jvm
 - go-cmp: ([homepage](https://github.com/google/go-cmp/cmp)) made in go
 - janet: ([homepage](https://github.com/janet-lang/janet)) made in c++
+- kcontacts: ([homepage](https://invent.kde.org/frameworks/kcontacts.git/)) made
+  in c++
 - sqlite3: ([homepage](https://sqlite.org/)) made in c++
 - pyasn1-modules: ([homepage](https://github.com/pyasn1/pyasn1-modules)) made in
   python
