@@ -162,6 +162,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - json-smart-v2: ([homepage](https://github.com/netplex/json-smart-v2)) made in
   jvm
 - hpn-ssh: ([homepage](https://www.psc.edu/home-hpn-ssh)) made in c++
+- openiked: ([homepage](https://www.openiked.org)) made in c
 - struts: ([homepage](https://github.com/apache/struts)) made in jvm
 - ohc: ([homepage](https://github.com/snazy/ohc)) made in jvm
 - pako: ([homepage](https://nodeca.github.io/pako/)) made in javascript
