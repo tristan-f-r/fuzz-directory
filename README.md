@@ -1169,8 +1169,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - bmcweb: ([homepage](https://github.com/openbmc/bmcweb)) made in c++
 - hyperium: ([homepage](https://github.com/hyperium/)) made in rust
 - openexr: ([homepage](https://openexr.com)) made in c++
-- selkies: ([homepage](https://github.com/selkies-project/selkies)) made in
-  python
+- selkies: ([homepage](https://github.com/selkies-project/selkies)) made in rust
 - weechat: ([homepage](https://github.com/weechat/weechat)) made in undefined
 - net-snmp: ([homepage](http://www.net-snmp.org/)) made in c++
 - python-phonenumbers:
