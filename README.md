@@ -531,6 +531,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - pypy3: ([homepage](https://pypy.org/)) made in c
 - hdrhistogram: ([homepage](https://github.com/HdrHistogram/HdrHistogram.git))
   made in jvm
+- symbolic: ([homepage](https://github.com/getsentry/symbolic)) made in rust
 - alembic: ([homepage](https://github.com/alembic/alembic)) made in c++
 - pugixml: ([homepage](https://github.com/zeux/pugixml)) made in c++
 - xmlpull: ([homepage](https://github.com/xmlpull-org/xmlpull-api-v1)) made in
