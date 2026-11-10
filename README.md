@@ -1495,7 +1495,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - libpsl: ([homepage](https://github.com/rockdaboot/libpsl)) made in c++
 - ibmswtpm2: ([homepage](https://sourceforge.net/projects/ibmswtpm2/)) made in
   c++
-- nsmd: ([homepage](https://gbmc.googlesource.com/nsmd)) made in c++
+- nsmd: ([homepage](https://github.com/NVIDIA/nsmd)) made in c++
 - valijson: ([homepage](https://github.com/tristanpenman/valijson)) made in c++
 - qs: ([homepage](https://github.com/ljharb/qs)) made in c++
 - rtpproxy: ([homepage](https://rtpproxy.org/)) made in c
