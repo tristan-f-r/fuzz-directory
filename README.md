@@ -1529,6 +1529,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - linkerd2-proxy: ([homepage](https://linkerd.io/)) made in rust
 - pymysql: ([homepage](https://github.com/PyMySQL/PyMySQL)) made in python
 - genshi: ([homepage](https://github.com/edgewall/genshi)) made in python
+- mod_pagespeed: ([homepage](https://www.modpagespeed.com)) made in c++
 - jsonp-api: ([homepage](https://github.com/jakartaee/jsonp-api)) made in jvm
 - libjxl: ([homepage](https://github.com/libjxl/libjxl)) made in c++
 - go-coap: ([homepage](https://plgd.dev)) made in go
