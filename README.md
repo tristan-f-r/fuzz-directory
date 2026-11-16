@@ -763,6 +763,8 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   ([homepage](https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-tasks))
   made in python
 - nbclassic: ([homepage](https://github.com/jupyter/nbclassic)) made in python
+- arm-firmware-crates-ffa: ([homepage](https://crates.io/crates/arm-ffa)) made
+  in rust
 - jimp: ([homepage](https://github.com/jimp-dev/jimp)) made in javascript
 - simdutf: ([homepage](https://simdutf.github.io/simdutf)) made in c++
 - leveldb: ([homepage](https://github.com/google/leveldb)) made in c++
