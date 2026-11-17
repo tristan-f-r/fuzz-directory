@@ -78,7 +78,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - openvpn: ([homepage](http://community.openvpn.net)) made in c
 - apache-commons-lang: ([homepage](https://github.com/apache/commons-lang)) made
   in jvm
-- racket: ([homepage](https://racket-lang.org)) made in undefined
+- racket: ([homepage](https://racket-lang.org)) made in c
 - rhai: ([homepage](rhai.rs)) made in rust
 - grok: ([homepage](https://github.com/GrokImageCompression/grok)) made in c++
 - pffft: ([homepage](https://bitbucket.org/jpommier/pffft)) made in c++
