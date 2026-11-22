@@ -61,7 +61,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - xlrd: ([homepage](https://github.com/python-excel/xlrd)) made in python
 - halide: ([homepage](https://halide-lang.org/)) made in c++
 - msquic: ([homepage](https://github.com/microsoft/msquic)) made in c
-- mtail: ([homepage](https://github.com/google/mtail)) made in go
+- mtail: ([homepage](https://github.com/jaqx0r/mtail)) made in go
 - botocore: ([homepage](https://github.com/boto/botocore)) made in python
 - mod_pagespeed: ([homepage](https://www.modpagespeed.com)) made in c++
 - firefox: ([homepage](https://www.mozilla.org/firefox/)) made in c++
