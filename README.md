@@ -627,6 +627,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - iroha: ([homepage](https://github.com/hyperledger/iroha)) made in c++
 - gwt: ([homepage](https://www.gwtproject.org/)) made in jvm
 - jettison: ([homepage](https://github.com/jettison-json/jettison)) made in jvm
+- faac: ([homepage](https://github.com/FreewareAdvancedAudio/faac)) made in c
 - fio: ([homepage](http://git.kernel.dk/fio.git)) made in c++
 - gcp-python-cloud-storage:
   ([homepage](https://github.com/googleapis/python-storage)) made in python
