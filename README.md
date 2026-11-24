@@ -103,6 +103,8 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
   in python
 - azure-sdk-for-python:
   ([homepage](https://github.com/azure/azure-sdk-for-python)) made in python
+- tf-firmware-handoff:
+  ([homepage](https://crates.io/crates/tf-firmware-handoff)) made in rust
 - libtasn1: ([homepage](https://gitlab.com/gnutls/libtasn1)) made in c++
 - unicode-rs: ([homepage](http://unicode-rs.github.io/)) made in rust
 - knative: ([homepage](https://knative.dev/)) made in go
@@ -1216,6 +1218,8 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - joblib: ([homepage](https://github.com/joblib/joblib)) made in python
 - opennavsurf-bag: ([homepage](https://github.com/OpenNavigationSurface/BAG))
   made in c++
+- arm-firmware-crates-psci: ([homepage](https://crates.io/crates/arm-psci)) made
+  in rust
 - muduo: ([homepage](https://github.com/chenshuo/muduo)) made in c++
 - phosphor-networkd: ([homepage](https://github.com/openbmc/phosphor-networkd))
   made in c++
