@@ -854,6 +854,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - bazel-rules-fuzzing-test:
   ([homepage](https://github.com/bazelbuild/rules_fuzzing)) made in c++
 - openfga: ([homepage](https://openfga.dev)) made in go
+- gifsicle: ([homepage](https://www.lcdf.org/gifsicle/)) made in c
 - pytz: ([homepage](https://github.com/stub42/pytz)) made in python
 - barebox: ([homepage](https://www.barebox.org)) made in c
 - opensk: ([homepage](https://github.com/google/OpenSK)) made in rust
