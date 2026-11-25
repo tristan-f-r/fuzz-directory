@@ -448,7 +448,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - unirest-java: ([homepage](https://github.com/Mashape/unirest-java)) made in
   jvm
 - ntpsec: ([homepage](https://ntpsec.org/)) made in c
-- faad2: ([homepage](https://sourceforge.net/projects/faac)) made in c
+- faad2: ([homepage](https://github.com/FreewareAdvancedAudio/faad2)) made in c
 - gluon: ([homepage](https://proton.me)) made in go
 - bz2file: ([homepage](https://github.com/nvawda/bz2file)) made in python
 - tpm2-tss: ([homepage](https://github.com/tpm2-software/tpm2-tss)) made in c++
