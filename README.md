@@ -1602,6 +1602,7 @@ sorted and usable list from [oss-fuzz](https://github.com/google/oss-fuzz/).
 - golang: ([homepage](https://golang.org/)) made in go
 - pdoc: ([homepage](https://github.com/pdoc3/pdoc)) made in python
 - avm: ([homepage](https://github.com/AOMediaCodec/avm)) made in c++
+- quinn: ([homepage](https://github.com/quinn-rs/quinn)) made in rust
 - wxwidgets: ([homepage](https://www.wxwidgets.org/)) made in c++
 - wuffs: ([homepage](https://github.com/google/wuffs)) made in c++
 - python-fastjsonschema:
